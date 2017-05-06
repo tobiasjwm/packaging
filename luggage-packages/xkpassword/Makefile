@@ -10,9 +10,7 @@ PAYLOAD=\
 	pack-usr-local-xkpasswd.pm-XKPasswd.pm \
 	pack-usr-local-xkpasswd.pm-XKPasswd-Util.pm \
 	pack-usr-local-outset-login-once-install_xkpasswd.sh \
-	pack-Library-Management-xkpasswd-Best Password.workflow \
-	pack-Library-Management-xkpasswd-Better Password.workflow \
-	pack-Library-Management-xkpasswd-Good Password.workflow
+	unbz2-Library-Management-xkpasswd-Best_Password.workflow 
 
 l_usr_local_xkpasswd.pm: l_usr_local
 	@sudo mkdir -p ${WORK_D}/usr/local/xkpasswd.pm
@@ -40,5 +38,6 @@ pack-usr-local-xkpasswd.pm-%: % l_usr_local_xkpasswd.pm
 pack-usr-local-xkpasswd.pm-XKPasswd-%: % l_usr_local_xkpasswd.pm_XKPasswd
 	@sudo ${INSTALL} -m 755 -g wheel -o root "${<}" ${WORK_D}/usr/local/xkpasswd.pm/XKPasswd
 
-pack-Library-Management-xkpasswd-%: % l_Library_Management_xkpasswd
-	@sudo ${INSTALL} -m 755 -g wheel -o root "${<}" ${WORK_D}/Library/Management/xkpasswd
+unbz2-Library-Management-xkpasswd-Best_Password.workflow: Best_Password.workflow.tar.bz2 l_Library_Management_xkpasswd
+    @sudo ${TAR} xfj Best_Password.workflow.tar.bz2 -C ${WORK_D}/Library/Management/xkpasswd
+    @sudo chown -R root:wheel "${WORK_D}//Library/Management/xkpasswd/est Password.workflow"
