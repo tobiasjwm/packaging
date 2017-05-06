@@ -34,9 +34,10 @@ then
     $rmr "$serviceDir"/"$userPwd"
 fi
 
-# Remove old receipt because we are using a new receipt. Growing up!
+# Remove old receipt because we are using a new receipt. 
+# But, now we won't because reasons
 
-$pur com.tobiasmorrison.xkpasswd
+#$pur com.tobiasmorrison.xkpasswd
 
 # Copy workflows to ~/Library/Services/
 $cpr "$tmpDir"/"$bestPwd" "$serviceDir"/"$bestPwd"
