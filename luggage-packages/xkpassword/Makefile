@@ -4,7 +4,7 @@ include /usr/local/share/luggage/luggage.make
 TITLE=xkpasswd
 PACKAGE_VERSION=1.1
 PACKAGE_NAME=${TITLE}-${PACKAGE_VERSION}
-REVERSE_DOMAIN=com.tobiasmorrison.xkpasswd
+REVERSE_DOMAIN=com.tobiasmorrison
 PAYLOAD=\
 	pack-usr-local-xkpasswd.pm-sample_dict.txt \
 	pack-usr-local-xkpasswd.pm-XKPasswd.pm \
@@ -42,12 +42,12 @@ pack-usr-local-xkpasswd.pm-XKPasswd-%: % l_usr_local_xkpasswd.pm_XKPasswd
 
 unbz2-Library-Management-xkpasswd-Best_Password.workflow: Best_Password.workflow.tar.bz2 l_Library_Management_xkpasswd
 	@sudo ${TAR} xfj Best_Password.workflow.tar.bz2 -C ${WORK_D}/Library/Management/xkpasswd
-	@sudo chown -R root:wheel "${WORK_D}//Library/Management/xkpasswd/Best Password.workflow"
+	@sudo chown -R root:wheel "${WORK_D}/Library/Management/xkpasswd/Best Password.workflow"
 
 unbz2-Library-Management-xkpasswd-Better_Password.workflow: Better_Password.workflow.tar.bz2 l_Library_Management_xkpasswd
 	@sudo ${TAR} xfj Better_Password.workflow.tar.bz2 -C ${WORK_D}/Library/Management/xkpasswd
-	@sudo chown -R root:wheel "${WORK_D}//Library/Management/xkpasswd/Better Password.workflow"
+	@sudo chown -R root:wheel "${WORK_D}/Library/Management/xkpasswd/Better Password.workflow"
 
 unbz2-Library-Management-xkpasswd-Good_Password.workflow: Good_Password.workflow.tar.bz2 l_Library_Management_xkpasswd
 	@sudo ${TAR} xfj Good_Password.workflow.tar.bz2 -C ${WORK_D}/Library/Management/xkpasswd
-	@sudo chown -R root:wheel "${WORK_D}//Library/Management/xkpasswd/Good Password.workflow"
+	@sudo chown -R root:wheel "${WORK_D}/Library/Management/xkpasswd/Good Password.workflow"
