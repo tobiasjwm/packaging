@@ -26,6 +26,10 @@ PKG_PRODUCT="Firefox"
 PKG_LANGUAGE="EN"
 PKG_ID="com.globalmacit.mac.pkg.${PKG_VENDOR}_${PKG_PRODUCT}.${PKG_LANGUAGE}"
 
+# Path to the directory containing this script.
+# More info at http://www.ostricher.com/2014/10/the-right-way-to-get-the-directory-of-a-bash-script/
+SCRIPT_DIR="$( cd "$( dirname "$0" )" && pwd )"
+
 # Download URL (Version will be filled in later)
 PKG_URL="http://ftp.mozilla.org/pub/firefox/releases/51.0.1/mac/en-US/Firefox%2051.0.1.dmg"
 
@@ -39,7 +43,7 @@ PKG_URL=$(echo $PKG_URL | sed -e "s@#VERSION#@$PKG_VERSION@")
 OUTNAME="${PKG_VENDOR}_${PKG_PRODUCT}_${PKG_VERSION}_${PKG_LANGUAGE}"
 
 # Download Firefox.dmg
-/usr/bin/curl -Lso "Firefox ${PKG_VERSION}esr.dmg" "$PKG_URL"
+/usr/bin/curl -Lso "Firefox ${PKG_VERSION}.dmg" "$PKG_URL"
 
 # Download language packs
 #LANGPACKS="de=417164 fr=417178 it=417194 rm=417234"
@@ -75,16 +79,16 @@ OUTNAME="${PKG_VENDOR}_${PKG_PRODUCT}_${PKG_VERSION}_${PKG_LANGUAGE}"
 
 if [ ! -d root/Applications/Firefox.app ]; then
   /bin/mkdir -p root/Applications mnt
-  /usr/bin/hdiutil attach "Firefox ${PKG_VERSION}esr.dmg" -quiet -nobrowse -mountpoint mnt
-  /usr/bin/ditto mnt/Firefox.app root/Applications/Firefox.app
+  /usr/bin/hdiutil attach "Firefox ${PKG_VERSION}.dmg" -quiet -nobrowse -mountpoint mnt
+  /usr/bin/ditto mnt/Firefox.app root/Applications/Firefox-51.app
   /usr/bin/hdiutil eject mnt -quiet
 fi
 
-/bin/mkdir -p root/Applications/Firefox.app/Contents/Resources/langpacks
-/bin/cp locale_switcher-3-fx.xpi langpack-*.xpi root/Applications/Firefox.app/Contents/Resources/langpacks
-/bin/cp firefox-ethz.cfg root/Applications/Firefox.app/Contents/Resources
-/bin/cp autoconfig-ethz.js root/Applications/Firefox.app/Contents/Resources/defaults/pref
-/usr/bin/perl -pi -e "s@#FIREFOX_VERSION#@$PKG_VERSION@" root/Applications/Firefox.app/Contents/Resources/firefox-ethz.cfg
+#/bin/mkdir -p root/Applications/Firefox-51.app/Contents/Resources/langpacks
+#/bin/cp locale_switcher-3-fx.xpi langpack-*.xpi root/Applications/Firefox-51.app/Contents/Resources/langpacks
+/bin/cp "$SCRIPT_DIR"/firefox-gmit.cfg root/Applications/Firefox-51.app/Contents/Resources
+/bin/cp "$SCRIPT_DIR"/autoconfig-gmit.js root/Applications/Firefox-51.app/Contents/Resources/defaults/pref
+/usr/bin/perl -pi -e "s@#FIREFOX_VERSION#@$PKG_VERSION@" root/Applications/Firefox-51.app/Contents/Resources/firefox-gmit.cfg
 
 # build the package
 echo "Creating package from root/ directory as ${OUTNAME}.pkg ..."
@@ -96,7 +100,7 @@ echo "Creating package from root/ directory as ${OUTNAME}.pkg ..."
 echo "PKG and DMG created successfully."
 
 # archive sources and results, clean up workspace
-CleanerList=(root mnt *.xpi "Firefox ${PKG_VERSION}esr.dmg" *.pkg)
+CleanerList=(root mnt *.xpi "Firefox ${PKG_VERSION}.dmg" *.pkg)
   echo "Trashing build artefacts in CWD..."
   for f in "${CleanerList[@]}"; do
     echo "  + removing artefact $f"
