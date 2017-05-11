@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# postinstall script to remove scriptRunner version of DisableSquirrelUpdates.sh
+# after adding the new outset version.
+
+# path to script in scriptRunner folder
+disableScript="/Library/Management/scriptRunner/every/DisableSquirrelUpdates.sh"
+
+# check if the script exists and remove if it does
+if [ -e "$disableScript" ];
+then 
+	/bin/rm "$disableScript"
+fi
