@@ -24,23 +24,23 @@
 PKG_VENDOR="Mozilla"
 PKG_PRODUCT="Firefox"
 PKG_LANGUAGE="EN"
-PKG_ID="com.globalmacit.mac.pkg.${PKG_VENDOR}_${PKG_PRODUCT}.${PKG_LANGUAGE}"
+PKG_ID="com.globalmacit.pkg.${PKG_VENDOR}_${PKG_PRODUCT}.${PKG_LANGUAGE}"
 
 # Path to the directory containing this script.
 # More info at http://www.ostricher.com/2014/10/the-right-way-to-get-the-directory-of-a-bash-script/
 SCRIPT_DIR="$( cd "$( dirname "$0" )" && pwd )"
 
-# Download URL (Version will be filled in later)
+# Download URL for old version
 PKG_URL="http://ftp.mozilla.org/pub/firefox/releases/51.0.1/mac/en-US/Firefox%2051.0.1.dmg"
 
-# fetch info about current version from website
+# Give it our special version number
 PKG_VERSION="51.0.1"
 
 # replace placeholder with correct version
 PKG_URL=$(echo $PKG_URL | sed -e "s@#VERSION#@$PKG_VERSION@")
 
 # define output name
-OUTNAME="${PKG_VENDOR}_${PKG_PRODUCT}_${PKG_VERSION}_${PKG_LANGUAGE}"
+OUTNAME="${PKG_VENDOR}_${PKG_PRODUCT}_SPC"
 
 # Download Firefox.dmg
 /usr/bin/curl -Lso "Firefox ${PKG_VERSION}.dmg" "$PKG_URL"
@@ -80,15 +80,15 @@ OUTNAME="${PKG_VENDOR}_${PKG_PRODUCT}_${PKG_VERSION}_${PKG_LANGUAGE}"
 if [ ! -d root/Applications/Firefox.app ]; then
   /bin/mkdir -p root/Applications mnt
   /usr/bin/hdiutil attach "Firefox ${PKG_VERSION}.dmg" -quiet -nobrowse -mountpoint mnt
-  /usr/bin/ditto mnt/Firefox.app root/Applications/Firefox-51.app
+  /usr/bin/ditto mnt/Firefox.app root"/Applications/Firefox SPC.app"
   /usr/bin/hdiutil eject mnt -quiet
 fi
 
-#/bin/mkdir -p root/Applications/Firefox-51.app/Contents/Resources/langpacks
-#/bin/cp locale_switcher-3-fx.xpi langpack-*.xpi root/Applications/Firefox-51.app/Contents/Resources/langpacks
-/bin/cp "$SCRIPT_DIR"/firefox-gmit.cfg root/Applications/Firefox-51.app/Contents/Resources
-/bin/cp "$SCRIPT_DIR"/autoconfig-gmit.js root/Applications/Firefox-51.app/Contents/Resources/defaults/pref
-/usr/bin/perl -pi -e "s@#FIREFOX_VERSION#@$PKG_VERSION@" root/Applications/Firefox-51.app/Contents/Resources/firefox-gmit.cfg
+#/bin/mkdir -p root/Applications/Firefox SPC.app/Contents/Resources/langpacks
+#/bin/cp locale_switcher-3-fx.xpi langpack-*.xpi root/Applications/Firefox SPC.app/Contents/Resources/langpacks
+/bin/cp "$SCRIPT_DIR"/firefox-gmit.cfg root"/Applications/Firefox SPC.app/Contents/Resources"
+/bin/cp "$SCRIPT_DIR"/autoconfig-gmit.js root"/Applications/Firefox SPC.app/Contents/Resources/defaults/pref"
+/usr/bin/perl -pi -e "s@#FIREFOX_VERSION#@$PKG_VERSION@" root"/Applications/Firefox SPC.app/Contents/Resources/firefox-gmit.cfg"
 
 # build the package
 echo "Creating package from root/ directory as ${OUTNAME}.pkg ..."
