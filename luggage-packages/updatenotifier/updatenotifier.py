@@ -9,7 +9,7 @@ from Foundation import *
 
 BUNDLE_ID = 'com.github.tobiasjwm.updatenotifier'
 
-def run_yo(title, text,url):
+def run_yo(title, text, url, icon):
 	cmd = [
 		'/Applications/Utilities/yo.app/Contents/MacOS/yo',
 		'--title',
@@ -19,7 +19,9 @@ def run_yo(title, text,url):
 		'--action-btn',
 		'More Info',
 		'--action-path',
-		url
+		url,
+		'--icon',
+		icon
 	]
 	subprocess.call(cmd)
 
@@ -80,6 +82,7 @@ def main():
 		# and call Yo with our options
 		run_yo(url='munki://detail-installOSX1012',
 				title='Operating System Update',
+                icon='/Library/Management/Utilities/gmit.png',
 				text='Your Mac is out of date, '\
 				'please upgrade ASAP.')
 if __name__ == '__main__':
