@@ -5,7 +5,7 @@
     <key>Label</key>
     <string>com.github.tobiasjwm.updatenotifier</string>
     <key>Program</key>
-    <string>/Library/Management/bin/updatenotifier</string>
+    <string>/Library/Management/bin/updatenotifier.py</string>
     <key>RunAtLoad</key>
     <true/>
     <key>StartCalendarInterval</key>
