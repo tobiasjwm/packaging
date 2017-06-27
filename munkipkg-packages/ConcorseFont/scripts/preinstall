@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Concourse preinstall script
+
+# find and delete any Concourse file in any user folder
+find "$3"/Users/*/Library/Fonts -iname "Concourse*.?tf" -delete

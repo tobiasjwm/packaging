@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Equity preinstall script
+
+# find and delete any Equity file in any user folder
+find "$3"/Users/*/Library/Fonts -iname "Equity*.?tf" -delete
