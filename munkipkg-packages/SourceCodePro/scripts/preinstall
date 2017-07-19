@@ -1,6 +1,6 @@
-!#/bin/sh
+#!/bin/sh
 
 # Source Code Pro preinstall script
 
 # find and remove any SourceCodePro file in any user folder
-/usr/bin/find "$3"/Users/*/Library/Fonts -iname "SourceCodePro*.?tf" -delete
+find "$3"/Users/*/Library/Fonts -iname "SourceCodePro*.?tf" -delete
