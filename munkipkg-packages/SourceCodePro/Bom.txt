@@ -1,0 +1,31 @@
+.	40755	0/0
+./Library	40755	0/0
+./Library/Fonts	40755	0/0
+./Library/Fonts/._SourceCodePro-Black.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-BlackIt.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-Bold.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-BoldIt.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-ExtraLight.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-ExtraLightIt.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-It.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-Light.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-LightIt.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-Medium.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-MediumIt.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-Regular.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-Semibold.otf	100755	0/0	0	0
+./Library/Fonts/._SourceCodePro-SemiboldIt.otf	100755	0/0	0	0
+./Library/Fonts/SourceCodePro-Black.otf	100755	0/0	149272	41220678
+./Library/Fonts/SourceCodePro-BlackIt.otf	100755	0/0	124432	2962718010
+./Library/Fonts/SourceCodePro-Bold.otf	100755	0/0	148456	3794654497
+./Library/Fonts/SourceCodePro-BoldIt.otf	100755	0/0	123112	3680769258
+./Library/Fonts/SourceCodePro-ExtraLight.otf	100755	0/0	141356	1081777172
+./Library/Fonts/SourceCodePro-ExtraLightIt.otf	100755	0/0	120104	3357995820
+./Library/Fonts/SourceCodePro-It.otf	100755	0/0	122288	282073303
+./Library/Fonts/SourceCodePro-Light.otf	100755	0/0	145036	4072128827
+./Library/Fonts/SourceCodePro-LightIt.otf	100755	0/0	123040	2740850968
+./Library/Fonts/SourceCodePro-Medium.otf	100755	0/0	145516	3386251143
+./Library/Fonts/SourceCodePro-MediumIt.otf	100755	0/0	122368	3334201149
+./Library/Fonts/SourceCodePro-Regular.otf	100755	0/0	145556	4192588564
+./Library/Fonts/SourceCodePro-Semibold.otf	100755	0/0	146808	2322983700
+./Library/Fonts/SourceCodePro-SemiboldIt.otf	100755	0/0	122652	3320393813
