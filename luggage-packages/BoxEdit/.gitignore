@@ -1,0 +1,3 @@
+# Lets not add the tarball app #
+################################
+*.bz2
