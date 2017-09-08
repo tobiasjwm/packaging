@@ -51,7 +51,7 @@ def run_today():
 		return False
 	
 	# convert the last shown timestamp to a usable date
-	last_shown = datetime.datetime.fromtimestamp(int(lastshown))
+	last_shown = datetime.datetime.fromtimestamp(int(last_shown))
 	# today's date
 	now = datetime.datetime.now()
 	# get the time delta between now and 23 hours ago
