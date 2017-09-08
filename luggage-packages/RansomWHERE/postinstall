@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# run the command line installer
+/Applications/Utilities/RansomWhere_Installer.app/Contents/MacOS/RansomWhere_Installer -install
