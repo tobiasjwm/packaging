@@ -6,6 +6,7 @@ import platform
 import subprocess
 import time
 import sys
+import os.path
 from SystemConfiguration import SCDynamicStoreCopyConsoleUser
 
 from Foundation import *
@@ -71,36 +72,58 @@ def set_run_today():
 	now = int(time.time())
 	set_pref('last_shown', now)
 
+def run_count():
+	times_run = pref('times_run')
+	if times_run == None:
+		return False
+	# convert the times run count into an integer
+	run_count = int(run_count)
+	# we want to run this a max of 4 times
+	if run_count >= 4:
+		print 'Notice has run 4 times'
+		return True
+	else:
+		print 'Notice has run less than 4 times'
+		return False
+
+def set_run_count():	
+	# convert the times run count into an integer and increment by 1
+	run_count += 1
+	set_pref('times_run', run_count)
+
 def box_drive_check():
 	# check if 'Box Drive.app' is already installed.
+	os.path.exists('/Applications/Box Drive.app')
 
 def remove_launch_agent():
+	# From Graham https://grahamgilbert.com/blog/2017/03/26/loading-launchagents-as-root/
 	username = (SCDynamicStoreCopyConsoleUser(None, None, None) or [None])[0]
 	if username is None:
-  		# Exit if there isn't anyone logged in
-    	sys.exit()
+		# Exit if there isn't anyone logged in
+		sys.exit()
     # Get uid for user
 	uid = getpwnam(username).pw_uid
  	# Unload the LaunchAgent
 	subprocess.call(['/bin/launchctl', 'bootout', 'gui/{}'.format(uid), '/Library/LaunchAgents/com.github.tobiasjwm.boxdrivenotifier.plist'])
-	
+	# Remove the LaunchAgent
+	subprocess.call(['/bin/rm', '-f', '/Library/LaunchAgents/com.github.tobiasjwm.boxdrivenotifier.plist'])
 
 def main():
-
-	# platform.mac_ver() gives us ('10.12.5', ('', '', ''), 'x86_64')
-	# the first part is useful, so we will pull it out with '[0]'
-	mac_version = platform.mac_ver()[0]
 	
-	if run_today() == False and (mac_version.startswith('10.11') \
-						or mac_version.startswith('10.10') \
-						or mac_version.startswith('10.9')):
+	# Check if Box Drive.app is already installed and remove the launch agent
+	# to prevent nagging user to do something that is already done.
+	if box_drive_check() == True or run_count() == True:
+		remove_launch_agent()
+
+	if run_today() == False:
 		# set the preference with the current unix timestamp
 		set_run_today()
+		set_run_count()
 		# and call Yo with our options
 		run_yo(url='https://globalmac-it.itglue.com/DOC-1673628-1147218',
 				title='Box Drive Now Available',
-                icon='/Library/Management/Utilities/gmit.png',
-				text='There is a new way to access your Box Account. '\
-				'Click More Info to find out more.')
+				icon='/Library/Management/Utilities/gmit.png',
+				text='Box Drive is now available.'\
+				'Click to find out more.')
 if __name__ == '__main__':
 	main()

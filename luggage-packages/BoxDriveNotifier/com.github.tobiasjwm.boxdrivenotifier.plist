@@ -8,16 +8,9 @@
     <string>/Library/Management/bin/boxdrivenotifier.py</string>
     <key>RunAtLoad</key>
     <true/>
-    <key>StartCalendarInterval</key>
-    <array>
-        <dict>
-        	<key>Hour</key>
-            <integer>11</integer>
-            <key>Minute</key>
-            <integer>30</integer>
-            <key>Weekday</key>
-            <integer>1</integer>
-        </dict>
-    </array>
+    <key>StartInterval</key>
+    <integer>604800</integer>
+    <key>KeepAlive</key>
+    <false/>
 </dict>
 </plist>
