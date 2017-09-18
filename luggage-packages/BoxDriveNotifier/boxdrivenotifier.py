@@ -76,20 +76,24 @@ def run_count():
 	times_run = pref('times_run')
 	if times_run == None:
 		return False
-	# convert the times run count into an integer
-	run_count = int(run_count)
 	# we want to run this a max of 4 times
-	if run_count >= 4:
+	if times_run >= 4:
 		print 'Notice has run 4 times'
 		return True
 	else:
 		print 'Notice has run less than 4 times'
 		return False
 
-def set_run_count():	
-	# convert the times run count into an integer and increment by 1
-	run_count += 1
-	set_pref('times_run', run_count)
+def set_run_count():
+	# check if run_count exists and set if it does not
+	run_count = pref('times_run')
+	if run_count == None:
+		run_count = 1
+		set_pref('times_run', run_count)
+	else:
+	# increment run_count by 1
+		run_count += 1
+		set_pref('times_run', run_count)
 
 def box_drive_check():
 	# check if 'Box Drive.app' is already installed.
@@ -109,13 +113,8 @@ def remove_launch_agent():
 	subprocess.call(['/bin/rm', '-f', '/Library/LaunchAgents/com.github.tobiasjwm.boxdrivenotifier.plist'])
 
 def main():
-	
-	# Check if Box Drive.app is already installed and remove the launch agent
-	# to prevent nagging user to do something that is already done.
-	if box_drive_check() == True or run_count() == True:
-		remove_launch_agent()
 
-	if run_today() == False:
+	if run_today() == False and run_count() == False:
 		# set the preference with the current unix timestamp
 		set_run_today()
 		set_run_count()
@@ -123,7 +122,14 @@ def main():
 		run_yo(url='https://globalmac-it.itglue.com/DOC-1673628-1147218',
 				title='Box Drive Now Available',
 				icon='/Library/Management/Utilities/gmit.png',
-				text='Box Drive is now available.'\
+				text='Box Drive is now available. '\
 				'Click to find out more.')
+
+	
+	# Check if Box Drive.app is already installed and remove the launch agent
+	# to prevent nagging user to do something that is already done.
+	if box_drive_check() == True or run_count() == True:
+		remove_launch_agent()
+
 if __name__ == '__main__':
 	main()
