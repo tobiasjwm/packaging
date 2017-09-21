@@ -10,7 +10,5 @@
     <true/>
     <key>StartInterval</key>
     <integer>604800</integer>
-    <key>KeepAlive</key>
-    <false/>
 </dict>
 </plist>
