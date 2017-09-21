@@ -92,6 +92,7 @@ def set_run_count():
 		set_pref('times_run', run_count)
 	else:
 	# increment run_count by 1
+		run_count = int(run_count)
 		run_count += 1
 		set_pref('times_run', run_count)
 
@@ -115,7 +116,7 @@ def remove_launch_agent():
 def main():
 
 	if run_today() == False and run_count() == False:
-		# set the preference with the current unix timestamp
+		# set the preference with the current unix timestamp and a times displayed count
 		set_run_today()
 		set_run_count()
 		# and call Yo with our options
