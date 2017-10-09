@@ -2,6 +2,9 @@
 
 # Weirdly, yo doesn't overwrite it's old app; instead it makes a
 # localized folder. Just erase it first.
-rm -rf /Applications/Utilities/yo.app
-rm -rf /Applications/Utilities/yo
-rm -rf /Applications/Utilities/yo.localized
+/bin/rm -rf /Applications/Utilities/yo.app
+/bin/rm -rf /Applications/Utilities/yo
+/bin/rm -rf /Applications/Utilities/yo.localized
+
+# The dev changed the app identifier, so lets clean up the old receipt.
+/usr/sbin/pkgutil --forget org.da.yo
