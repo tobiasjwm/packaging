@@ -1,0 +1,50 @@
+#!/bin/bash
+
+# enter here the EPP server address and server port
+# the EPPSERVER_ADDRESS must be set to the value displayed
+# in the script:
+# https://my.endpointprotector.com/clientcheck/index.php?usercode=xxxxxxx
+# where you replace 'xxxxxxx' by your My Endpoint Protector Unique ID
+MYEPP_UNIQUE_ID=8G23136M
+EPP_SERVER_ADDRESS="my2.endpointprotector.com"
+EPP_SERVER_PORT="443"
+EPP_DEPARTMENT_CODE="defdep"
+# for the location of the package, we recommend using an absoulte path
+# for example: "/Users/Shared/InstallPackages/MyEndpointProtectorClient.pkg"
+EPP_PACKAGE_NAME="MyEndpointProtectorClient.pkg"
+EPP_PACKAGE_PATH="/Library/Management/Utilities"
+
+
+# do NOT modify the script below this line
+
+if [ ${EPP_SERVER_ADDRESS} == "127.0.0.1" ]; then
+    /bin/echo "You have to set the EPP server address before running this script!"
+    exit 1
+fi
+
+if [ -e "${EPP_PACKAGE_PATH}"/"${EPP_PACKAGE_NAME}" ]; then
+    /bin/echo "Will install package: ${EPP_PACKAGE_NAME}"
+else
+    /bin/echo "${EPP_PACKAGE_PATH}"/"${EPP_PACKAGE_NAME}, file not found!"
+    exit 1
+fi
+
+# make sure the temporary file is world writable, so installs
+# following a failed install can still be performed by a different user
+OLD_MASK=`umask`
+umask 0011
+
+EPP_INSTALL_CONFIG="/tmp/epp-srv201f0dd30"
+/bin/echo "UserCode=$MYEPP_UNIQUE_ID"       >> $EPP_INSTALL_CONFIG
+/bin/echo "ws_server=$EPP_SERVER_ADDRESS"       >> $EPP_INSTALL_CONFIG
+/bin/echo "ws_port=$EPP_SERVER_PORT"            >> $EPP_INSTALL_CONFIG
+/bin/echo "DepartmentCode=$EPP_DEPARTMENT_CODE" >> $EPP_INSTALL_CONFIG
+/bin/echo "mode.tray=0" >> $EPP_INSTALL_CONFIG
+
+# restore old file creation mask
+/usr/bin/umask $OLD_MASK
+
+/usr/sbin/installer -pkg "${EPP_PACKAGE_PATH}"/"${EPP_PACKAGE_NAME}" -target "/"
+
+# cleanup
+/bin/rm "${EPP_PACKAGE_PATH}"/"${EPP_PACKAGE_NAME}"
