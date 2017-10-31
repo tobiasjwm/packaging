@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Bank Gothic preinstall script
+
+# find and delete any Bank Gothic file in any user folder
+find "$3"/Users/*/Library/Fonts -iname "Bank Gothic*.?tf" -delete
+find "$3"/Users/*/Library/Fonts -iname "Bank Gothic" -delete
