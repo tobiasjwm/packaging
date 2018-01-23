@@ -1,0 +1,15 @@
+.	40755	0/0
+./Library	40755	0/0
+./Library/Fonts	40755	0/0
+./Library/Fonts/._Cinzel-Black.otf	100644	0/0	0	0
+./Library/Fonts/._Cinzel-Bold.otf	100644	0/0	0	0
+./Library/Fonts/._Cinzel-Regular.otf	100644	0/0	0	0
+./Library/Fonts/._CinzelDecorative-Black.otf	100644	0/0	0	0
+./Library/Fonts/._CinzelDecorative-Bold.otf	100644	0/0	0	0
+./Library/Fonts/._CinzelDecorative-Regular.otf	100644	0/0	0	0
+./Library/Fonts/Cinzel-Black.otf	100644	0/0	92236	1864445310
+./Library/Fonts/Cinzel-Bold.otf	100644	0/0	103048	4141940150
+./Library/Fonts/Cinzel-Regular.otf	100644	0/0	93476	404103106
+./Library/Fonts/CinzelDecorative-Black.otf	100644	0/0	89732	2794020546
+./Library/Fonts/CinzelDecorative-Bold.otf	100644	0/0	104488	1256651758
+./Library/Fonts/CinzelDecorative-Regular.otf	100644	0/0	90440	1119379375

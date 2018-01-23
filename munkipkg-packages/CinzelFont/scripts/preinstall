@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Cinzel preinstall script
+# written by Tobias Morrison - www.tobiasmorrison.com
+#
+# This script checks for the existence of the Cinzel font installed
+# in any user account and removes all copies.
+
+find "$3"/Users/*/Library/Fonts -iname "Cinzel*.?tf" -delete
