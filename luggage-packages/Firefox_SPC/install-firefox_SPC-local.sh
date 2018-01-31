@@ -17,6 +17,9 @@ localApps="${3}/Users/${USER}/Applications"
 # path to Firefox_SPC DMG
 firefoxDmg="${3}/Library/Management/Utilities/Firefox_SPC_51.0.1_EN.dmg"
 
+# DMG mountpoint
+mnt="${3}/Volumes/Firefox_SPC/"
+
 
 ## functions
 # check for existence of ~/Applications, create directory and set permissions if path does not exist
@@ -34,10 +37,12 @@ createLocalDir() { #path to ~/Applications
 
 # mount dmg and move app to ~/Applications
 addFirefox() { #path to Firefox DMG, path to local Applications folder
+	/bin/echo "Mounting Firefox_SPC DMG."
+	/usr/bin/hdiutil attach "$1" -quiet -nobrowse
 	/bin/echo "Copying Firefox_SPC to ~/Applications."
-	/usr/bin/hdiutil attach "$1" -quiet -nobrowse -mountpoint mnt
-	/usr/bin/ditto mnt/Firefox_SPC_51.0.1_EN.dmg "$2"/Firefox_SPC.app
-	/usr/bin/hdiutil eject mnt -quiet
+	/usr/bin/ditto "$mnt"/Firefox_SPC.app "$2"/Firefox_SPC.app
+	/bin/echo "Ejecting Firefox_SPC DMG."
+	/usr/bin/hdiutil eject "$mnt" -quiet
 }
 
 ## All the things!
