@@ -40,7 +40,7 @@ addFirefox() { #path to Firefox DMG, path to local Applications folder
 	/bin/echo "Mounting Firefox_SPC DMG."
 	/usr/bin/hdiutil attach "$1" -quiet -nobrowse
 	/bin/echo "Copying Firefox_SPC to ~/Applications."
-	/usr/bin/ditto "$mnt"/Firefox_SPC.app "$2"/Firefox_SPC.app
+	/bin/cp "$mnt"/Firefox_SPC.app "$2"/Firefox_SPC.app
 	/bin/echo "Ejecting Firefox_SPC DMG."
 	/usr/bin/hdiutil eject "$mnt" -quiet
 }
