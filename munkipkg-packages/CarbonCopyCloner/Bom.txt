@@ -1,0 +1,1124 @@
+.	40755	0/0
+./Applications	40755	0/0
+./Applications/._Carbon Copy Cloner.app	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app	40755	0/0
+./Applications/Carbon Copy Cloner.app/._Contents	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/._Library	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/._MacOS	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/._PkgInfo	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/._Resources	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/._XPCServices	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Info.plist	100644	0/0	3556	4252510483
+./Applications/Carbon Copy Cloner.app/Contents/Library	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/._LaunchServices	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/._LoginItems	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LaunchServices	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LaunchServices/._com.bombich.ccchelper	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LaunchServices/com.bombich.ccchelper	100755	0/0	2885088	3159762199
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/._CCC User Agent.app	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/._Contents	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/._MacOS	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/._PkgInfo	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/._Resources	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/._XPCServices	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Info.plist	100644	0/0	1467	4223576517
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/MacOS	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/MacOS/._CCC User Agent	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/MacOS/CCC User Agent	100755	0/0	2730400	101714966
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/PkgInfo	100644	0/0	8	742937289
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._Assets.car	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._Base.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._caution-new.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._de.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._es.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._fr.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._icon.icns	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._it.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._ja.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/._nl.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/Assets.car	100644	0/0	558904	1840988727
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/Base.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/Base.lproj/._TaskPromptWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/Base.lproj/._UserAgent.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/Base.lproj/TaskPromptWindowController.nib	100644	0/0	13361	1387645062
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/Base.lproj/UserAgent.nib	100644	0/0	88381	2459502965
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/caution-new.tiff	100644	0/0	42346	834060420
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/de.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/de.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/de.lproj/._TaskPromptWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/de.lproj/._UserAgent.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/de.lproj/Localizable.strings	100644	0/0	391438	3063611013
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/de.lproj/TaskPromptWindowController.strings	100644	0/0	1244	3818483885
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/de.lproj/UserAgent.strings	100644	0/0	15522	909040589
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/en.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/en.lproj/Localizable.strings	100644	0/0	369666	462996574
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/es.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/es.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/es.lproj/._TaskPromptWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/es.lproj/._UserAgent.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/es.lproj/Localizable.strings	100644	0/0	409748	2217303156
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/es.lproj/TaskPromptWindowController.strings	100644	0/0	1260	725033994
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/es.lproj/UserAgent.strings	100644	0/0	15726	531434637
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/fr.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/fr.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/fr.lproj/._TaskPromptWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/fr.lproj/._UserAgent.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/fr.lproj/Localizable.strings	100644	0/0	411854	3089038944
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/fr.lproj/TaskPromptWindowController.strings	100644	0/0	1270	2699556124
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/fr.lproj/UserAgent.strings	100644	0/0	15626	2768223166
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/icon.icns	100644	0/0	509086	4086783401
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/it.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/it.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/it.lproj/._TaskPromptWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/it.lproj/._UserAgent.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/it.lproj/Localizable.strings	100644	0/0	393238	2606468503
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/it.lproj/TaskPromptWindowController.strings	100644	0/0	1270	347359067
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/it.lproj/UserAgent.strings	100644	0/0	15548	370801428
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/ja.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/ja.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/ja.lproj/._TaskPromptWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/ja.lproj/._UserAgent.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/ja.lproj/Localizable.strings	100644	0/0	256074	4173204993
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/ja.lproj/TaskPromptWindowController.strings	100644	0/0	1200	1603767163
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/ja.lproj/UserAgent.strings	100644	0/0	14086	74349559
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/nl.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/nl.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/nl.lproj/._TaskPromptWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/nl.lproj/._UserAgent.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/nl.lproj/Localizable.strings	100644	0/0	389498	2163022368
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/nl.lproj/TaskPromptWindowController.strings	100644	0/0	1230	391797222
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/Resources/nl.lproj/UserAgent.strings	100644	0/0	15352	4111591488
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/._CCC Stats Service.xpc	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/._Contents	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/._Frameworks	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/._MacOS	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/._Paddle.framework	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/._Paddle	120755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/._Resources	120755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/._Versions	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Paddle	120755	0/0	23	2776690165	Versions/Current/Paddle
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Resources	120755	0/0	26	3302263027	Versions/Current/Resources
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/._A	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/._Current	120755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/._Paddle	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/._Resources	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/.__CodeSignature	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Paddle	100755	0/0	936688	1114591631
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._Info.plist	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADActivateWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADActivateWindowControllerYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADBuyWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADBuyWindowControllerYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductNoTrial.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductNoTrialYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductWindowControllerYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADWebPopWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKPaypalWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKProductWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKPurchaseWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKStoreWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKFeedbackWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKHappinessWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKRateWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKThanksWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._alert-bg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._alert-icon.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._blank.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnBackground.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnBackground@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnDownBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._buyToolbar.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._checkLicenceBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._close.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._close@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._de.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._es.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._fr.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy-press.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy-press@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._iconExample.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._index.html	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._it.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._ja.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._ko.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral-press.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral-press@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._newProgPoint.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._noTimeBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._offerBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pl.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pointCenter.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pointLeftCap.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pointRightCap.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._progressBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._progressPoint.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pt-PT.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._ru.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad-press.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad-press@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sheetTimeBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._star.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._star@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._starHighlighted.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._starHighlighted@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._timeBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._windowBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._zh-Hans.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._zh-Hant.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/Info.plist	100644	0/0	1323	3981729479
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADActivateWindowController.nib	100644	0/0	16520	925485120
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADActivateWindowControllerYosemite.nib	100644	0/0	17107	1729286059
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADBuyWindowController.nib	100644	0/0	12443	1575283017
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADBuyWindowControllerYosemite.nib	100644	0/0	11467	1108505121
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductNoTrial.nib	100644	0/0	18801	2780388942
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductNoTrialYosemite.nib	100644	0/0	16917	1820314309
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductWindowController.nib	100644	0/0	18287	222163331
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductWindowControllerYosemite.nib	100644	0/0	17955	2799323543
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADWebPopWindowController.nib	100644	0/0	3524	1186242325
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKPaypalWindowController.nib	100644	0/0	3888	592584690
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKProductWindowController.nib	100644	0/0	11107	646282156
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKPurchaseWindowController.nib	100644	0/0	4148	3827988650
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKStoreWindowController.nib	100644	0/0	24902	338140052
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKFeedbackWindow.nib	100644	0/0	13828	2800871190
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKHappinessWindow.nib	100644	0/0	12690	762351929
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKRateWindow.nib	100644	0/0	11647	2419435910
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKThanksWindow.nib	100644	0/0	11622	4172213141
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/alert-bg.png	100644	0/0	330	2713731486
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/alert-icon.png	100644	0/0	871	2108762952
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/blank.png	100644	0/0	1075	3226195070
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnBackground.png	100644	0/0	1203	1811427678
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnBackground@2x.png	100644	0/0	1391	351536529
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnBg.png	100644	0/0	18387	3330739152
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnDownBg.png	100644	0/0	18387	1665815431
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/buyToolbar.png	100644	0/0	21907	100261404
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/checkLicenceBg.png	100644	0/0	20946	3893259201
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/close.png	100644	0/0	1754	3297789512
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/close@2x.png	100644	0/0	3100	1063669687
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/de.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/de.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/de.lproj/Localizable.strings	100644	0/0	8420	4065520719
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/._InfoPlist.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/InfoPlist.strings	100644	0/0	92	2769355950
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/Localizable.strings	100644	0/0	10336	3803807014
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/es.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/es.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/es.lproj/Localizable.strings	100644	0/0	8170	1616804638
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/fr.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/fr.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/fr.lproj/Localizable.strings	100644	0/0	8510	3057306879
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy-press.png	100644	0/0	4243	804604191
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy-press@2x.png	100644	0/0	9659	2780972850
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy.png	100644	0/0	4273	4173035274
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy@2x.png	100644	0/0	9527	1136144232
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/iconExample.png	100644	0/0	21446	16203419
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/index.html	100644	0/0	1206	1744205300
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/it.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/it.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/it.lproj/Localizable.strings	100644	0/0	8270	2416525483
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ja.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ja.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ja.lproj/Localizable.strings	100644	0/0	6350	3905348958
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ko.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ko.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ko.lproj/Localizable.strings	100644	0/0	6496	406023366
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral-press.png	100644	0/0	3870	2664595383
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral-press@2x.png	100644	0/0	8197	1127411337
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral.png	100644	0/0	3874	2075624677
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral@2x.png	100644	0/0	8261	157237156
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/newProgPoint.png	100644	0/0	1340	4175331624
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/noTimeBg.png	100644	0/0	20503	1108456300
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/offerBg.png	100644	0/0	3483	4106389210
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pl.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pl.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pl.lproj/Localizable.strings	100644	0/0	7848	2541728701
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pointCenter.png	100644	0/0	980	1856299584
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pointLeftCap.png	100644	0/0	1110	2944536907
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pointRightCap.png	100644	0/0	1125	4178276951
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/progressBg.png	100644	0/0	10116	580567811
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/progressPoint.png	100644	0/0	1014	2958730157
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pt-PT.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pt-PT.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pt-PT.lproj/Localizable.strings	100644	0/0	8150	52122632
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ru.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ru.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ru.lproj/Localizable.strings	100644	0/0	8212	1406349400
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad-press.png	100644	0/0	4303	2618271948
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad-press@2x.png	100644	0/0	9803	4026224128
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad.png	100644	0/0	4328	4257893801
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad@2x.png	100644	0/0	9305	858714865
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sheetTimeBg.png	100644	0/0	21905	618336249
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/star.png	100644	0/0	15473	3447542413
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/star@2x.png	100644	0/0	16098	2953992738
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/starHighlighted.png	100644	0/0	15310	651330381
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/starHighlighted@2x.png	100644	0/0	15674	2851840282
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/timeBg.png	100644	0/0	24999	3717892944
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/windowBg.png	100644	0/0	77146	1485553614
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hans.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hans.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hans.lproj/Localizable.strings	100644	0/0	5732	1937653457
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hant.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hant.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hant.lproj/Localizable.strings	100644	0/0	5666	3941794645
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/_CodeSignature	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/_CodeSignature/CodeResources	100644	0/0	26187	2595347329
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/Current	120755	0/0	1	1751207896	A
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Info.plist	100644	0/0	1159	1049608812
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/MacOS	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/MacOS/._CCC Stats Service	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/MacOS/CCC Stats Service	100755	0/0	62240	1716444145
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/_CodeSignature	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/_CodeSignature/CodeResources	100644	0/0	2687	2918031396
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/_CodeSignature	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Library/LoginItems/CCC User Agent.app/Contents/_CodeSignature/CodeResources	100644	0/0	12868	1411268689
+./Applications/Carbon Copy Cloner.app/Contents/MacOS	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/._CCC File Copier	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/._Carbon Copy Cloner	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/._archive_manager	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/._ccc	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/._rsync	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/._sshauth	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/CCC File Copier	100755	0/0	1022160	2925355087
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/Carbon Copy Cloner	100755	0/0	4453296	1510997775
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/archive_manager	100755	0/0	84720	259601813
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/ccc	100755	0/0	1282880	3094256344
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/rsync	100755	0/0	580928	1799342592
+./Applications/Carbon Copy Cloner.app/Contents/MacOS/sshauth	100755	0/0	283152	810598925
+./Applications/Carbon Copy Cloner.app/Contents/PkgInfo	100644	0/0	8	742937289
+./Applications/Carbon Copy Cloner.app/Contents/Resources	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._Assets.car	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._Base.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._COPYING.txt	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._Credits.html	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._MyApp.scriptSuite	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._MyApp.scriptTerminology	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._SUStatus.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._SparkleLicense.txt	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._caution-hash.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._caution-new.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._ccc-task-document.icns	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._ccc_128.jpg	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._de.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._defaults.plist	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._es.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._fr.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._icon.icns	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._it.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._ja.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._nl.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._no_network.html	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._pka	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._redStatus.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._rsync-wrapper.sh	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._tb-hide-sidebar.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._tb-history.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._tb-preferences.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._tb-show-sidebar.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._tb-task.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._tb-tips.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._uninstall	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._warning.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._white_pixel.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/._yellowStatus.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Assets.car	100644	0/0	3398968	3371637757
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSBasicTextPopover.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSConnectToServerController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSDeleteSafetyNet.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSDiskSelectorPopover.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSFiltersWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSRemoteHostWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSTaskGroupDetailViewController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._BSUnqualifiedOSAlertWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._CloneCenterViewController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._CloneTaskViewController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._DashboardController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._DestructiveTaskWarning.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._DiskCenterViewController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._DiskDetailsViewController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._Documentation.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._KitchenSync.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._Licensing.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._MainMenu.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._MainWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._PasswordPrompt.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._Preferences.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._SUUpdateAlert.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._SchedulingViewController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._SimpleRecoveryHD.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._TEDController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._TaskHistory.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._TaskMigrationController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._UserAgentLoginItemPrompt.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._VersionHelper.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/._no-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSBasicTextPopover.nib	100644	0/0	14517	3172045023
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSConnectToServerController.nib	100644	0/0	32254	4205249416
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSDeleteSafetyNet.nib	100644	0/0	20205	330134031
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSDiskSelectorPopover.nib	100644	0/0	32344	1089210392
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSFiltersWindowController.nib	100644	0/0	133187	3131892826
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSRemoteHostWindowController.nib	100644	0/0	56805	3107622825
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSTaskGroupDetailViewController.nib	100644	0/0	72310	3887636983
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/BSUnqualifiedOSAlertWindow.nib	100644	0/0	12408	4184831973
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/CloneCenterViewController.nib	100644	0/0	53699	75298050
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/CloneTaskViewController.nib	100644	0/0	283728	88787326
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/DashboardController.nib	100644	0/0	4749	699970807
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/DestructiveTaskWarning.nib	100644	0/0	17915	2304462684
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/DiskCenterViewController.nib	100644	0/0	34125	4164454164
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/DiskDetailsViewController.nib	100644	0/0	139736	4197482788
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/Documentation.nib	100644	0/0	70362	3663682234
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/KitchenSync.nib	100644	0/0	75068	3069696749
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/Licensing.nib	100644	0/0	140864	4150229627
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/MainMenu.nib	100644	0/0	26835	1705828411
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/MainWindow.nib	100644	0/0	23936	1921226916
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/PasswordPrompt.nib	100644	0/0	97309	1431076276
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/Preferences.nib	100644	0/0	121045	3043937497
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/SUUpdateAlert.nib	100644	0/0	22059	448882453
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/SchedulingViewController.nib	100644	0/0	118353	3507819789
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/SimpleRecoveryHD.nib	100644	0/0	10466	3645297220
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/TEDController.nib	100644	0/0	27905	2166386391
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/TaskHistory.nib	100644	0/0	95220	3117853119
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/TaskMigrationController.nib	100644	0/0	32493	2029705763
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/UserAgentLoginItemPrompt.nib	100644	0/0	17548	711820884
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/VersionHelper.nib	100644	0/0	28139	724097324
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Base.lproj/no-schedule.tiff	100644	0/0	17700	4136695864
+./Applications/Carbon Copy Cloner.app/Contents/Resources/COPYING.txt	100644	0/0	35147	199341746
+./Applications/Carbon Copy Cloner.app/Contents/Resources/Credits.html	100644	0/0	357	590906817
+./Applications/Carbon Copy Cloner.app/Contents/Resources/MyApp.scriptSuite	100644	0/0	180	3304623684
+./Applications/Carbon Copy Cloner.app/Contents/Resources/MyApp.scriptTerminology	100644	0/0	173	4047456868
+./Applications/Carbon Copy Cloner.app/Contents/Resources/SUStatus.nib	100644	0/0	8751	3075139528
+./Applications/Carbon Copy Cloner.app/Contents/Resources/SparkleLicense.txt	100644	0/0	8726	653861554
+./Applications/Carbon Copy Cloner.app/Contents/Resources/caution-hash.tiff	100644	0/0	17316	3531882014
+./Applications/Carbon Copy Cloner.app/Contents/Resources/caution-new.tiff	100644	0/0	42346	834060420
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ccc-task-document.icns	100644	0/0	620441	2327040182
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ccc_128.jpg	100644	0/0	5789	4096201411
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._About this folder.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._AboutStatsAndUsage.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSBasicTextPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSConnectToServerController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSDeleteSafetyNet.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSDiskSelectorPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSFiltersWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSRemoteHostWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSTaskGroupDetailViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._BSUnqualifiedOSAlertWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._CloneCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._CloneTaskViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._DashboardController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._DestructiveTaskWarning.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._DiskCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._DiskDetailsViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._Documentation.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._EULA.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._KitchenSync.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._Licensing.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._MainMenu.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._MainWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._PasswordPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._Preferences.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._SchedulingViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._SimpleRecoveryHD.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._Sparkle.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._TEDController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._TaskHistory.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._TaskMigrationController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._UserAgentLoginItemPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._VersionHelper.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._daily-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._hourly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._monthly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/._weekly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/About this folder.rtf	100644	0/0	2636	2915332914
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/AboutStatsAndUsage.rtf	100644	0/0	6343	193416251
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSBasicTextPopover.strings	100644	0/0	4	2204215434
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSConnectToServerController.strings	100644	0/0	1632	3947406052
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSDeleteSafetyNet.strings	100644	0/0	1874	1794318291
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSDiskSelectorPopover.strings	100644	0/0	2028	1064911474
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSFiltersWindowController.strings	100644	0/0	14762	4084045120
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSRemoteHostWindowController.strings	100644	0/0	8192	3511385983
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSTaskGroupDetailViewController.strings	100644	0/0	7272	100144536
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/BSUnqualifiedOSAlertWindow.strings	100644	0/0	4514	2864314716
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/CloneCenterViewController.strings	100644	0/0	7852	4065781915
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/CloneTaskViewController.strings	100644	0/0	51962	2422007355
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/DashboardController.strings	100644	0/0	216	3130879621
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/DestructiveTaskWarning.strings	100644	0/0	3012	3884418348
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/DiskCenterViewController.strings	100644	0/0	1300	1245780277
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/DiskDetailsViewController.strings	100644	0/0	17478	2456896028
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/Documentation.strings	100644	0/0	19196	946559228
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/EULA.rtf	100644	0/0	21775	2291565393
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/KitchenSync.strings	100644	0/0	25794	3959473031
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/Licensing.strings	100644	0/0	24874	2511073821
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/Localizable.strings	100644	0/0	391438	3063611013
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/MainMenu.strings	100644	0/0	18116	2336545560
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/MainWindow.strings	100644	0/0	3442	3840480139
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/PasswordPrompt.strings	100644	0/0	18928	2238782372
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/Preferences.strings	100644	0/0	36166	2061707113
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/SchedulingViewController.strings	100644	0/0	24486	2231577973
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/SimpleRecoveryHD.strings	100644	0/0	224	2189889405
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/Sparkle.strings	100644	0/0	8868	3957988263
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/TEDController.strings	100644	0/0	4344	121553040
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/TaskHistory.strings	100644	0/0	17550	50440138
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/TaskMigrationController.strings	100644	0/0	5656	2323998153
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/UserAgentLoginItemPrompt.strings	100644	0/0	4234	1864760941
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/VersionHelper.strings	100644	0/0	4450	2995759954
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/daily-schedule.tiff	100644	0/0	20236	2109478574
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/hourly-schedule.tiff	100644	0/0	20194	2444351730
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/monthly-schedule.tiff	100644	0/0	26004	1105588490
+./Applications/Carbon Copy Cloner.app/Contents/Resources/de.lproj/weekly-schedule.tiff	100644	0/0	24168	508102385
+./Applications/Carbon Copy Cloner.app/Contents/Resources/defaults.plist	100644	0/0	15913	2073197788
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._About this folder.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._AboutStatsAndUsage.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._EULA.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._SUStatus.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._Sparkle.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._daily-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._hourly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._monthly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/._weekly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/About this folder.rtf	100644	0/0	2304	1284447019
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/AboutStatsAndUsage.rtf	100644	0/0	6354	427579512
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/EULA.rtf	100644	0/0	19184	2231895612
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/Localizable.strings	100644	0/0	369666	462996574
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/SUStatus.strings	100644	0/0	96	433620509
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/Sparkle.strings	100644	0/0	8556	3332952441
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/daily-schedule.tiff	100644	0/0	21800	3704516536
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/hourly-schedule.tiff	100644	0/0	21846	2232012543
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/monthly-schedule.tiff	100644	0/0	26004	1105588490
+./Applications/Carbon Copy Cloner.app/Contents/Resources/en.lproj/weekly-schedule.tiff	100644	0/0	24168	508102385
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._About this folder.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._AboutStatsAndUsage.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSBasicTextPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSConnectToServerController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSDeleteSafetyNet.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSDiskSelectorPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSFiltersWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSRemoteHostWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSTaskGroupDetailViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._BSUnqualifiedOSAlertWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._CloneCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._CloneTaskViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._DashboardController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._DestructiveTaskWarning.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._DiskCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._DiskDetailsViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._Documentation.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._EULA.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._KitchenSync.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._Licensing.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._MainMenu.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._MainWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._PasswordPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._Preferences.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._SchedulingViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._SimpleRecoveryHD.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._Sparkle.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._TEDController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._TaskHistory.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._TaskMigrationController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._UserAgentLoginItemPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._VersionHelper.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._daily-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._hourly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._monthly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/._weekly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/About this folder.rtf	100644	0/0	3005	493898812
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/AboutStatsAndUsage.rtf	100644	0/0	6477	147103006
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSBasicTextPopover.strings	100644	0/0	4	2204215434
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSConnectToServerController.strings	100644	0/0	1662	821239799
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSDeleteSafetyNet.strings	100644	0/0	1922	1752787988
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSDiskSelectorPopover.strings	100644	0/0	2046	1005545183
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSFiltersWindowController.strings	100644	0/0	14870	3870753197
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSRemoteHostWindowController.strings	100644	0/0	8228	616495323
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSTaskGroupDetailViewController.strings	100644	0/0	7308	707406158
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/BSUnqualifiedOSAlertWindow.strings	100644	0/0	4454	271358291
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/CloneCenterViewController.strings	100644	0/0	7824	3668348418
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/CloneTaskViewController.strings	100644	0/0	53122	4096494852
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/DashboardController.strings	100644	0/0	208	3560040228
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/DestructiveTaskWarning.strings	100644	0/0	3048	1673752826
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/DiskCenterViewController.strings	100644	0/0	1362	2394187595
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/DiskDetailsViewController.strings	100644	0/0	17938	2299311114
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/Documentation.strings	100644	0/0	19678	1051284541
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/EULA.rtf	100644	0/0	21295	2931534259
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/KitchenSync.strings	100644	0/0	27138	780748971
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/Licensing.strings	100644	0/0	25130	3868935414
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/Localizable.strings	100644	0/0	409748	2217303156
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/MainMenu.strings	100644	0/0	18202	860277595
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/MainWindow.strings	100644	0/0	3494	4159196174
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/PasswordPrompt.strings	100644	0/0	19368	1147326222
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/Preferences.strings	100644	0/0	37922	202474437
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/SchedulingViewController.strings	100644	0/0	24690	481462877
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/SimpleRecoveryHD.strings	100644	0/0	244	1419099999
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/Sparkle.strings	100644	0/0	9066	266812261
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/TEDController.strings	100644	0/0	4338	4249480101
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/TaskHistory.strings	100644	0/0	17908	1560453791
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/TaskMigrationController.strings	100644	0/0	5620	2856860318
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/UserAgentLoginItemPrompt.strings	100644	0/0	4560	1595663485
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/VersionHelper.strings	100644	0/0	4384	3941042224
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/daily-schedule.tiff	100644	0/0	19610	2322953045
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/hourly-schedule.tiff	100644	0/0	19636	3829352744
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/monthly-schedule.tiff	100644	0/0	26004	1105588490
+./Applications/Carbon Copy Cloner.app/Contents/Resources/es.lproj/weekly-schedule.tiff	100644	0/0	24168	508102385
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._About this folder.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._AboutStatsAndUsage.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSBasicTextPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSConnectToServerController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSDeleteSafetyNet.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSDiskSelectorPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSFiltersWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSRemoteHostWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSTaskGroupDetailViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._BSUnqualifiedOSAlertWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._CloneCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._CloneTaskViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._DashboardController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._DestructiveTaskWarning.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._DiskCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._DiskDetailsViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._Documentation.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._EULA.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._KitchenSync.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._Licensing.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._MainMenu.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._MainWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._PasswordPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._Preferences.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._SchedulingViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._SimpleRecoveryHD.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._Sparkle.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._TEDController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._TaskHistory.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._TaskMigrationController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._UserAgentLoginItemPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._VersionHelper.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._daily-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._hourly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._monthly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/._weekly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/About this folder.rtf	100644	0/0	3091	2718476653
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/AboutStatsAndUsage.rtf	100644	0/0	5070	1911780995
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSBasicTextPopover.strings	100644	0/0	4	2204215434
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSConnectToServerController.strings	100644	0/0	1654	3388642960
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSDeleteSafetyNet.strings	100644	0/0	1918	2040193567
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSDiskSelectorPopover.strings	100644	0/0	2028	3232220769
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSFiltersWindowController.strings	100644	0/0	15144	3549844730
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSRemoteHostWindowController.strings	100644	0/0	8214	181121268
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSTaskGroupDetailViewController.strings	100644	0/0	7288	233677587
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/BSUnqualifiedOSAlertWindow.strings	100644	0/0	4972	2094891037
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/CloneCenterViewController.strings	100644	0/0	7888	602912768
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/CloneTaskViewController.strings	100644	0/0	53292	2693964084
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/DashboardController.strings	100644	0/0	228	2786439416
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/DestructiveTaskWarning.strings	100644	0/0	3040	1785699409
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/DiskCenterViewController.strings	100644	0/0	1308	1171950574
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/DiskDetailsViewController.strings	100644	0/0	17736	1033597066
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/Documentation.strings	100644	0/0	19556	4040907510
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/EULA.rtf	100644	0/0	22241	597201294
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/KitchenSync.strings	100644	0/0	27126	2455907879
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/Licensing.strings	100644	0/0	25202	1027799698
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/Localizable.strings	100644	0/0	411854	3089038944
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/MainMenu.strings	100644	0/0	18260	1492197004
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/MainWindow.strings	100644	0/0	3512	2706425138
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/PasswordPrompt.strings	100644	0/0	19374	3294708863
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/Preferences.strings	100644	0/0	38004	3216574577
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/SchedulingViewController.strings	100644	0/0	25070	250107266
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/SimpleRecoveryHD.strings	100644	0/0	224	2189889405
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/Sparkle.strings	100644	0/0	9172	97385037
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/TEDController.strings	100644	0/0	4362	279102067
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/TaskHistory.strings	100644	0/0	17890	3846618993
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/TaskMigrationController.strings	100644	0/0	5590	3412233625
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/UserAgentLoginItemPrompt.strings	100644	0/0	4388	1995727347
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/VersionHelper.strings	100644	0/0	4408	2738073369
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/daily-schedule.tiff	100644	0/0	19494	875115861
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/hourly-schedule.tiff	100644	0/0	19576	1997573242
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/monthly-schedule.tiff	100644	0/0	26004	1105588490
+./Applications/Carbon Copy Cloner.app/Contents/Resources/fr.lproj/weekly-schedule.tiff	100644	0/0	24168	508102385
+./Applications/Carbon Copy Cloner.app/Contents/Resources/icon.icns	100644	0/0	509086	4086783401
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._About this folder.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._AboutStatsAndUsage.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSBasicTextPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSConnectToServerController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSDeleteSafetyNet.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSDiskSelectorPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSFiltersWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSRemoteHostWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSTaskGroupDetailViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._BSUnqualifiedOSAlertWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._CloneCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._CloneTaskViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._DashboardController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._DestructiveTaskWarning.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._DiskCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._DiskDetailsViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._Documentation.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._EULA.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._KitchenSync.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._Licensing.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._MainMenu.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._MainWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._PasswordPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._Preferences.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._SchedulingViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._SimpleRecoveryHD.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._Sparkle.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._TEDController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._TaskHistory.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._TaskMigrationController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._UserAgentLoginItemPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._VersionHelper.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._daily-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._hourly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._monthly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/._weekly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/About this folder.rtf	100644	0/0	2809	2429057949
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/AboutStatsAndUsage.rtf	100644	0/0	5563	1430048286
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSBasicTextPopover.strings	100644	0/0	4	2204215434
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSConnectToServerController.strings	100644	0/0	1626	3499989284
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSDeleteSafetyNet.strings	100644	0/0	1920	3361356642
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSDiskSelectorPopover.strings	100644	0/0	2038	1489366184
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSFiltersWindowController.strings	100644	0/0	14848	1435005007
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSRemoteHostWindowController.strings	100644	0/0	8184	3217140987
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSTaskGroupDetailViewController.strings	100644	0/0	7364	1421367810
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/BSUnqualifiedOSAlertWindow.strings	100644	0/0	4518	2598864816
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/CloneCenterViewController.strings	100644	0/0	7836	1748514792
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/CloneTaskViewController.strings	100644	0/0	53054	3606542319
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/DashboardController.strings	100644	0/0	216	3130879621
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/DestructiveTaskWarning.strings	100644	0/0	3052	748927042
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/DiskCenterViewController.strings	100644	0/0	1332	3549347154
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/DiskDetailsViewController.strings	100644	0/0	17534	1714032199
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/Documentation.strings	100644	0/0	19168	3585607218
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/EULA.rtf	100644	0/0	20331	3520442504
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/KitchenSync.strings	100644	0/0	26580	3094029964
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/Licensing.strings	100644	0/0	25048	1604962693
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/Localizable.strings	100644	0/0	393238	2606468503
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/MainMenu.strings	100644	0/0	18010	1470897028
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/MainWindow.strings	100644	0/0	3486	2129478261
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/PasswordPrompt.strings	100644	0/0	19028	3957030126
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/Preferences.strings	100644	0/0	37054	2257410629
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/SchedulingViewController.strings	100644	0/0	24820	1319060534
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/SimpleRecoveryHD.strings	100644	0/0	224	2189889405
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/Sparkle.strings	100644	0/0	8850	2347377307
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/TEDController.strings	100644	0/0	4324	2057526427
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/TaskHistory.strings	100644	0/0	17922	3006487117
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/TaskMigrationController.strings	100644	0/0	5640	4071320838
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/UserAgentLoginItemPrompt.strings	100644	0/0	4208	3090176864
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/VersionHelper.strings	100644	0/0	4330	1137839754
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/daily-schedule.tiff	100644	0/0	19654	1790624642
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/hourly-schedule.tiff	100644	0/0	19602	3085860274
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/monthly-schedule.tiff	100644	0/0	26004	1105588490
+./Applications/Carbon Copy Cloner.app/Contents/Resources/it.lproj/weekly-schedule.tiff	100644	0/0	24168	508102385
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._About this folder.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._AboutStatsAndUsage.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSBasicTextPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSConnectToServerController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSDeleteSafetyNet.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSDiskSelectorPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSFiltersWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSRemoteHostWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSTaskGroupDetailViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._BSUnqualifiedOSAlertWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._CloneCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._CloneTaskViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._DashboardController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._DestructiveTaskWarning.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._DiskCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._DiskDetailsViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._Documentation.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._EULA.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._KitchenSync.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._Licensing.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._MainMenu.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._MainWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._PasswordPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._Preferences.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._SchedulingViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._SimpleRecoveryHD.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._Sparkle.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._TEDController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._TaskHistory.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._TaskMigrationController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._UserAgentLoginItemPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._VersionHelper.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._daily-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._hourly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._monthly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._no-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/._weekly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/About this folder.rtf	100644	0/0	7178	669173247
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/AboutStatsAndUsage.rtf	100644	0/0	13322	1429905033
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSBasicTextPopover.strings	100644	0/0	4	2204215434
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSConnectToServerController.strings	100644	0/0	1556	3137811399
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSDeleteSafetyNet.strings	100644	0/0	1820	48137136
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSDiskSelectorPopover.strings	100644	0/0	1966	2783745282
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSFiltersWindowController.strings	100644	0/0	13664	3525448482
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSRemoteHostWindowController.strings	100644	0/0	7552	3028444177
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSTaskGroupDetailViewController.strings	100644	0/0	6916	233289890
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/BSUnqualifiedOSAlertWindow.strings	100644	0/0	3372	2815108964
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/CloneCenterViewController.strings	100644	0/0	7212	3803599521
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/CloneTaskViewController.strings	100644	0/0	48000	1233699591
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/DashboardController.strings	100644	0/0	216	3130879621
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/DestructiveTaskWarning.strings	100644	0/0	2878	349040451
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/DiskCenterViewController.strings	100644	0/0	1282	1900037310
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/DiskDetailsViewController.strings	100644	0/0	16416	1098741135
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/Documentation.strings	100644	0/0	17180	124094868
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/EULA.rtf	100644	0/0	61821	2795326072
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/KitchenSync.strings	100644	0/0	22454	494685913
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/Licensing.strings	100644	0/0	22460	694870679
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/Localizable.strings	100644	0/0	256074	4173204993
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/MainMenu.strings	100644	0/0	16782	1326747343
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/MainWindow.strings	100644	0/0	3202	2520056850
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/PasswordPrompt.strings	100644	0/0	17654	2919345824
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/Preferences.strings	100644	0/0	31434	3142905858
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/SchedulingViewController.strings	100644	0/0	22784	2658131328
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/SimpleRecoveryHD.strings	100644	0/0	224	2189889405
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/Sparkle.strings	100644	0/0	7140	1670299809
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/TEDController.strings	100644	0/0	4106	2496778749
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/TaskHistory.strings	100644	0/0	16792	1443683134
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/TaskMigrationController.strings	100644	0/0	5340	4158177756
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/UserAgentLoginItemPrompt.strings	100644	0/0	3460	562224485
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/VersionHelper.strings	100644	0/0	3910	3729460911
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/daily-schedule.tiff	100644	0/0	19532	2446573101
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/hourly-schedule.tiff	100644	0/0	19580	2389384000
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/monthly-schedule.tiff	100644	0/0	23948	13989283
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/no-schedule.tiff	100644	0/0	17028	1207547343
+./Applications/Carbon Copy Cloner.app/Contents/Resources/ja.lproj/weekly-schedule.tiff	100644	0/0	22144	475067923
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._About this folder.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._AboutStatsAndUsage.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSBasicTextPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSConnectToServerController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSDeleteSafetyNet.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSDiskSelectorPopover.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSFiltersWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSRemoteHostWindowController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSTaskGroupDetailViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._BSUnqualifiedOSAlertWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._CloneCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._CloneTaskViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._DashboardController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._DestructiveTaskWarning.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._DiskCenterViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._DiskDetailsViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._Documentation.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._EULA.rtf	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._KitchenSync.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._Licensing.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._MainMenu.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._MainWindow.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._PasswordPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._Preferences.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._SchedulingViewController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._SimpleRecoveryHD.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._Sparkle.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._TEDController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._TaskHistory.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._TaskMigrationController.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._UserAgentLoginItemPrompt.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._VersionHelper.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._daily-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._hourly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._monthly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/._weekly-schedule.tiff	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/About this folder.rtf	100644	0/0	2707	1752298770
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/AboutStatsAndUsage.rtf	100644	0/0	6635	2145715368
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSBasicTextPopover.strings	100644	0/0	4	2204215434
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSConnectToServerController.strings	100644	0/0	1622	3018980553
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSDeleteSafetyNet.strings	100644	0/0	1910	1493880845
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSDiskSelectorPopover.strings	100644	0/0	2004	512706498
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSFiltersWindowController.strings	100644	0/0	14736	2218845601
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSRemoteHostWindowController.strings	100644	0/0	8220	1464276579
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSTaskGroupDetailViewController.strings	100644	0/0	7166	94603377
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/BSUnqualifiedOSAlertWindow.strings	100644	0/0	4690	472409864
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/CloneCenterViewController.strings	100644	0/0	7734	464084609
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/CloneTaskViewController.strings	100644	0/0	52252	1408839005
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/DashboardController.strings	100644	0/0	216	3130879621
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/DestructiveTaskWarning.strings	100644	0/0	3014	1192416237
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/DiskCenterViewController.strings	100644	0/0	1326	910826715
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/DiskDetailsViewController.strings	100644	0/0	17376	634765341
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/Documentation.strings	100644	0/0	19278	3002427470
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/EULA.rtf	100644	0/0	20367	2737757997
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/KitchenSync.strings	100644	0/0	26680	3413069477
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/Licensing.strings	100644	0/0	24750	2300654983
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/Localizable.strings	100644	0/0	389498	2163022368
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/MainMenu.strings	100644	0/0	17904	102509005
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/MainWindow.strings	100644	0/0	3456	830927758
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/PasswordPrompt.strings	100644	0/0	19196	3541706368
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/Preferences.strings	100644	0/0	36570	2117356790
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/SchedulingViewController.strings	100644	0/0	24646	1994672870
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/SimpleRecoveryHD.strings	100644	0/0	232	1105385149
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/Sparkle.strings	100644	0/0	8986	1886357351
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/TEDController.strings	100644	0/0	4338	3170753858
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/TaskHistory.strings	100644	0/0	17810	3556192062
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/TaskMigrationController.strings	100644	0/0	5542	555728843
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/UserAgentLoginItemPrompt.strings	100644	0/0	4186	2640721324
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/VersionHelper.strings	100644	0/0	4354	4080082248
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/daily-schedule.tiff	100644	0/0	20292	1072518011
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/hourly-schedule.tiff	100644	0/0	20264	3512298513
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/monthly-schedule.tiff	100644	0/0	26004	1105588490
+./Applications/Carbon Copy Cloner.app/Contents/Resources/nl.lproj/weekly-schedule.tiff	100644	0/0	24168	508102385
+./Applications/Carbon Copy Cloner.app/Contents/Resources/no_network.html	100644	0/0	2800	2653250966
+./Applications/Carbon Copy Cloner.app/Contents/Resources/pka	100644	0/0	2466	1645213109
+./Applications/Carbon Copy Cloner.app/Contents/Resources/redStatus.tiff	100644	0/0	12014	3602630946
+./Applications/Carbon Copy Cloner.app/Contents/Resources/rsync-wrapper.sh	100755	0/0	5913	1237583825
+./Applications/Carbon Copy Cloner.app/Contents/Resources/tb-hide-sidebar.tiff	100644	0/0	19936	3596052710
+./Applications/Carbon Copy Cloner.app/Contents/Resources/tb-history.tiff	100644	0/0	27596	1352468454
+./Applications/Carbon Copy Cloner.app/Contents/Resources/tb-preferences.tiff	100644	0/0	26580	20237757
+./Applications/Carbon Copy Cloner.app/Contents/Resources/tb-show-sidebar.tiff	100644	0/0	21434	1310529862
+./Applications/Carbon Copy Cloner.app/Contents/Resources/tb-task.tiff	100644	0/0	26608	3967999131
+./Applications/Carbon Copy Cloner.app/Contents/Resources/tb-tips.tiff	100644	0/0	25998	3221969341
+./Applications/Carbon Copy Cloner.app/Contents/Resources/uninstall	100755	0/0	240	896598271
+./Applications/Carbon Copy Cloner.app/Contents/Resources/warning.tiff	100644	0/0	12080	3882938831
+./Applications/Carbon Copy Cloner.app/Contents/Resources/white_pixel.tiff	100644	0/0	2106	1934240866
+./Applications/Carbon Copy Cloner.app/Contents/Resources/yellowStatus.tiff	100644	0/0	12304	2057763095
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/._CCC Stats Service.xpc	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/._Contents	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/._Frameworks	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/._Info.plist	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/._MacOS	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/.__CodeSignature	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/._Paddle.framework	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/._Paddle	120755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/._Resources	120755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/._Versions	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Paddle	120755	0/0	23	2776690165	Versions/Current/Paddle
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Resources	120755	0/0	26	3302263027	Versions/Current/Resources
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/._A	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/._Current	120755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/._Paddle	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/._Resources	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/.__CodeSignature	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Paddle	100755	0/0	936688	1114591631
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._Info.plist	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADActivateWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADActivateWindowControllerYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADBuyWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADBuyWindowControllerYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductNoTrial.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductNoTrialYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADProductWindowControllerYosemite.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PADWebPopWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKPaypalWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKProductWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKPurchaseWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PSKStoreWindowController.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKFeedbackWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKHappinessWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKRateWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._PTKThanksWindow.nib	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._alert-bg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._alert-icon.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._blank.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnBackground.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnBackground@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._btnDownBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._buyToolbar.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._checkLicenceBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._close.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._close@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._de.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._en.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._es.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._fr.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy-press.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy-press@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._happy@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._iconExample.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._index.html	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._it.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._ja.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._ko.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral-press.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral-press@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._neutral@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._newProgPoint.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._noTimeBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._offerBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pl.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pointCenter.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pointLeftCap.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pointRightCap.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._progressBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._progressPoint.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._pt-PT.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._ru.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad-press.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad-press@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sad@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._sheetTimeBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._star.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._star@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._starHighlighted.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._starHighlighted@2x.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._timeBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._windowBg.png	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._zh-Hans.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/._zh-Hant.lproj	40755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/Info.plist	100644	0/0	1323	3981729479
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADActivateWindowController.nib	100644	0/0	16520	925485120
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADActivateWindowControllerYosemite.nib	100644	0/0	17107	1729286059
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADBuyWindowController.nib	100644	0/0	12443	1575283017
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADBuyWindowControllerYosemite.nib	100644	0/0	11467	1108505121
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductNoTrial.nib	100644	0/0	18801	2780388942
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductNoTrialYosemite.nib	100644	0/0	16917	1820314309
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductWindowController.nib	100644	0/0	18287	222163331
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADProductWindowControllerYosemite.nib	100644	0/0	17955	2799323543
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PADWebPopWindowController.nib	100644	0/0	3524	1186242325
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKPaypalWindowController.nib	100644	0/0	3888	592584690
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKProductWindowController.nib	100644	0/0	11107	646282156
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKPurchaseWindowController.nib	100644	0/0	4148	3827988650
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PSKStoreWindowController.nib	100644	0/0	24902	338140052
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKFeedbackWindow.nib	100644	0/0	13828	2800871190
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKHappinessWindow.nib	100644	0/0	12690	762351929
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKRateWindow.nib	100644	0/0	11647	2419435910
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/PTKThanksWindow.nib	100644	0/0	11622	4172213141
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/alert-bg.png	100644	0/0	330	2713731486
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/alert-icon.png	100644	0/0	871	2108762952
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/blank.png	100644	0/0	1075	3226195070
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnBackground.png	100644	0/0	1203	1811427678
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnBackground@2x.png	100644	0/0	1391	351536529
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnBg.png	100644	0/0	18387	3330739152
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/btnDownBg.png	100644	0/0	18387	1665815431
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/buyToolbar.png	100644	0/0	21907	100261404
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/checkLicenceBg.png	100644	0/0	20946	3893259201
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/close.png	100644	0/0	1754	3297789512
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/close@2x.png	100644	0/0	3100	1063669687
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/de.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/de.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/de.lproj/Localizable.strings	100644	0/0	8420	4065520719
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/._InfoPlist.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/InfoPlist.strings	100644	0/0	92	2769355950
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/en.lproj/Localizable.strings	100644	0/0	10336	3803807014
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/es.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/es.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/es.lproj/Localizable.strings	100644	0/0	8170	1616804638
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/fr.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/fr.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/fr.lproj/Localizable.strings	100644	0/0	8510	3057306879
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy-press.png	100644	0/0	4243	804604191
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy-press@2x.png	100644	0/0	9659	2780972850
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy.png	100644	0/0	4273	4173035274
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/happy@2x.png	100644	0/0	9527	1136144232
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/iconExample.png	100644	0/0	21446	16203419
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/index.html	100644	0/0	1206	1744205300
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/it.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/it.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/it.lproj/Localizable.strings	100644	0/0	8270	2416525483
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ja.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ja.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ja.lproj/Localizable.strings	100644	0/0	6350	3905348958
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ko.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ko.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ko.lproj/Localizable.strings	100644	0/0	6496	406023366
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral-press.png	100644	0/0	3870	2664595383
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral-press@2x.png	100644	0/0	8197	1127411337
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral.png	100644	0/0	3874	2075624677
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/neutral@2x.png	100644	0/0	8261	157237156
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/newProgPoint.png	100644	0/0	1340	4175331624
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/noTimeBg.png	100644	0/0	20503	1108456300
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/offerBg.png	100644	0/0	3483	4106389210
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pl.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pl.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pl.lproj/Localizable.strings	100644	0/0	7848	2541728701
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pointCenter.png	100644	0/0	980	1856299584
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pointLeftCap.png	100644	0/0	1110	2944536907
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pointRightCap.png	100644	0/0	1125	4178276951
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/progressBg.png	100644	0/0	10116	580567811
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/progressPoint.png	100644	0/0	1014	2958730157
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pt-PT.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pt-PT.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/pt-PT.lproj/Localizable.strings	100644	0/0	8150	52122632
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ru.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ru.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/ru.lproj/Localizable.strings	100644	0/0	8212	1406349400
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad-press.png	100644	0/0	4303	2618271948
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad-press@2x.png	100644	0/0	9803	4026224128
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad.png	100644	0/0	4328	4257893801
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sad@2x.png	100644	0/0	9305	858714865
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/sheetTimeBg.png	100644	0/0	21905	618336249
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/star.png	100644	0/0	15473	3447542413
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/star@2x.png	100644	0/0	16098	2953992738
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/starHighlighted.png	100644	0/0	15310	651330381
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/starHighlighted@2x.png	100644	0/0	15674	2851840282
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/timeBg.png	100644	0/0	24999	3717892944
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/windowBg.png	100644	0/0	77146	1485553614
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hans.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hans.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hans.lproj/Localizable.strings	100644	0/0	5732	1937653457
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hant.lproj	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hant.lproj/._Localizable.strings	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/Resources/zh-Hant.lproj/Localizable.strings	100644	0/0	5666	3941794645
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/_CodeSignature	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/A/_CodeSignature/CodeResources	100644	0/0	26187	2595347329
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Frameworks/Paddle.framework/Versions/Current	120755	0/0	1	1751207896	A
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/Info.plist	100644	0/0	1159	1049608812
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/MacOS	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/MacOS/._CCC Stats Service	100755	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/MacOS/CCC Stats Service	100755	0/0	62240	1716444145
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/_CodeSignature	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/XPCServices/CCC Stats Service.xpc/Contents/_CodeSignature/CodeResources	100644	0/0	2687	2918031396
+./Applications/Carbon Copy Cloner.app/Contents/_CodeSignature	40755	0/0
+./Applications/Carbon Copy Cloner.app/Contents/_CodeSignature/._CodeResources	100644	0/0	0	0
+./Applications/Carbon Copy Cloner.app/Contents/_CodeSignature/CodeResources	100644	0/0	129472	2568722173
