@@ -1,0 +1,29 @@
+#!/bin/bash
+
+#	preinstall for addOffice2016Dock
+#	version: 0.1
+#	created: 23 Feb 2018
+#	author: Tobias Morrison
+#
+# preinstall script to remove the old add-Office2016 script 
+# before installing the new outset version
+
+# where's Waldo?
+srItemOne="/Library/Management/scriptRunner/once/add-office2016-dock-2016-05-14.sh"
+srItemTwo="/Library/Management/scriptRunner/once/add-office2016-dock-2016-05-06.sh"
+
+# Check and remove the apps
+if [ -e "${srItemOne}" ]; then
+    /bin/echo "add-office2016-dock-2016-05-14.sh. Will remove app at path ${srItemOne}"
+    /bin/rm -rf "${srItemOne}"
+fi
+
+if [ -e "${srItemTwo}" ]; then
+    /bin/echo "Found add-office2016-dock-2016-05-06.sh. Will remove app at path ${srItemTwo}"
+    /bin/rm -rf "${srItemTwo}"
+fi
+
+/usr/sbin/pkgutil --forget com.tobiasmorrison.add-office2016-dock
+
+exit 0
+
