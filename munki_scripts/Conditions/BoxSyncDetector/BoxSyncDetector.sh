@@ -16,5 +16,5 @@ if [ -e "${applicationLocation}" ]
     	defaults write "${plistLocation}" "${prefName}" -bool false
 fi
 #	Since 'defaults' outputs a binary plist, we need to ensure that munki can read it by 
-#!	converting it to xml 
+#+	converting it to xml 
 plutil -convert xml1 "${plistLocation}".plist
