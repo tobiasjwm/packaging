@@ -7,7 +7,8 @@ PACKAGE_NAME=${TITLE}-${PACKAGE_VERSION}
 REVERSE_DOMAIN=com.github.tobiasjwm
 PAYLOAD=\
 	pack-Library-Bundles-OSXNotification.bundle \
-	pack-script-preinstall
+	pack-script-preinstall \
+	pack-script-postinstall
 
 l_Library_Bundles: l_Library
 	@sudo mkdir -p ${WORK_D}/Library/Bundles
@@ -16,6 +17,3 @@ l_Library_Bundles: l_Library
 
 pack-Library-Bundles-%: % l_Library_Bundles
 	@sudo ${INSTALL} -m 755 -g wheel -o root "${<}" ${WORK_D}/Library/Bundles
-
-modify_packageroot:
-	@sudo chflags schg ${WORK_D}/Library/Bundles/OSXNotification.bundle

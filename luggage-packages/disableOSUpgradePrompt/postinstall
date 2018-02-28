@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/usr/bin/chflags schg /Library/Bundles/OSXNotification.bundle
+
+exit 0
