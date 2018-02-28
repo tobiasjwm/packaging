@@ -1,0 +1,5 @@
+#!/bin/bash
+
+if [ -d /Library/Bundles/OSXNotification.bundle ]; then
+  /bin/rm -R /Library/Bundles/OSXNotification.bundle
+fi
