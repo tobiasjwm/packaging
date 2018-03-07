@@ -7,7 +7,9 @@ REVERSE_DOMAIN=com.globalmacit.pkg.Mozilla_Firefox_SPC.EN
 PACKAGE_VERSION=51.0.1
 PAYLOAD=\
 	pack-Library-Management-Utilities-Firefox_SPC_51.0.1_EN.dmg \
-	pack-usr-local-outset-login-once-install-firefox_SPC-local.sh
+	pack-usr-local-outset-login-once-install-firefox_SPC-local.sh \
+	pack-usr-local-outset-on-demand-run-login-once.sh \
+	pack-script-postinstall
 
 l_Library_Management: l_Library
 	@sudo mkdir -p ${WORK_D}/Library/Management
