@@ -15,10 +15,7 @@ dockutil="/usr/local/bin/dockutil"
 localApps="${3}/Users/${USER}/Applications"
 
 # path to Firefox_SPC DMG
-firefoxDmg="${3}/Library/Management/Utilities/Firefox_SPC_51.0.1_EN.dmg"
-
-# DMG mountpoint
-mnt="${3}/Volumes/Firefox_SPC/"
+firefoxApp="${3}/Library/Management/bin/Firefox_SPC.app"
 
 
 ## functions
@@ -36,13 +33,9 @@ createLocalDir() { #path to ~/Applications
 
 
 # mount dmg and move app to ~/Applications
-addFirefox() { #path to Firefox DMG, path to local Applications folder
-	/bin/echo "Mounting Firefox_SPC DMG."
-	/usr/bin/hdiutil attach "$1" -quiet -nobrowse
+addFirefox() { #path to Firefox_SPC.app, path to local Applications folder
+	/bin/cp -R "$firefoxApp" "$2"/Firefox_SPC.app
 	/bin/echo "Copying Firefox_SPC to ~/Applications."
-	/bin/cp -R "$mnt"/Firefox_SPC.app "$2"/Firefox_SPC.app
-	/bin/echo "Ejecting Firefox_SPC DMG."
-	/usr/bin/hdiutil eject "$mnt" -quiet
 }
 
 ## All the things!
@@ -50,9 +43,9 @@ addFirefox() { #path to Firefox DMG, path to local Applications folder
 createLocalDir "$localApps"
 
 # copy function
-addFirefox "$firefoxDmg" "$localApps"
+addFirefox "$firefoxApp" "$localApps"
 
-# dockutil -add
+# dockutil --add
 
 $dockutil --add ${localApps}/Firefox_SPC.app
 
