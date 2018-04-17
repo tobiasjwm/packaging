@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Proxies</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.globalmacit.127442c0-4078-0132-7b01-442c030d553d.alacarte.proxies.fa215880-2487-0136-7b1d-442c030d553d</string>
+			<key>PayloadType</key>
+			<string>com.apple.SystemConfiguration</string>
+			<key>PayloadUUID</key>
+			<string>fa215880-2487-0136-7b1d-442c030d553d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Proxies</key>
+			<dict>
+				<key>Exceptions</key>
+				<array>
+					<string>127.0.0.1</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Proxy settings for Box Tools</string>
+	<key>PayloadDisplayName</key>
+	<string>Box Tools Proxy</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.globalmacit.127442c0-4078-0132-7b01-442c030d553d.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>GlobalMac IT</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>127442c0-4078-0132-7b01-442c030d553d</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
