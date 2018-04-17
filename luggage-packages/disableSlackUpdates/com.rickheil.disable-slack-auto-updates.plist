@@ -2,18 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>Label</key>
-  <string>com.rickheil.disable-slack-auto-updates</string>
-  <key>ProgramArguments</key>
-  <array>
-    <string>sh</string>
-    <string>-c</string>
-    <string>/bin/launchctl</string>
-    <string>setenv</string>
-    <string>SLACK_NO_AUTO_UPDATES</string>
-    <string>1</string>
-  </array>
-  <key>RunAtLoad</key>
-  <true/>
+	<key>Label</key>
+	<string>com.rickheil.disable-slack-auto-updates</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/launchctl</string>
+		<string>setenv</string>
+		<string>SLACK_NO_AUTO_UPDATES</string>
+		<string>1</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
 </dict>
 </plist>
