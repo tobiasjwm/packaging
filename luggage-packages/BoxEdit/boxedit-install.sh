@@ -40,9 +40,9 @@ copyApps() { # srcdir destdir srcItem1 srcItem2
     fi
 }
 
-# Install network proxy profile
+# Install network proxy profile. Commenting out because the profile is unnecessary.
 
-/usr/bin/profiles -IvF "/Library/Profiles/BoxToolsProxy.mobileconfig"
+#/usr/bin/profiles -IvF "${target}/Library/Profiles/BoxToolsProxy.mobileconfig"
 
 # Create directory
 createDir "$tgtDir" 755
