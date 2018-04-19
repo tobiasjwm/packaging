@@ -17,9 +17,9 @@
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadDescription</key>
-		<string>Skips the Siri Setup pop-up window</string>
+		<string>Skips the Siri Setup pop-up window, Apple Privacy pop-up window, and the iCloud Setup pop-up window</string>
 		<key>PayloadDisplayName</key>
-		<string>Skip Siri Setup</string>
+		<string>Skip Setup assistants</string>
 		<key>PayloadContent</key>
 		<array>
 			<dict>
@@ -37,36 +37,8 @@
 				<string>Login Window</string>
 				<key>SkipSiriSetup</key>
 				<true/>
-			</dict>
-			<dict>
-				<key>PayloadType</key>
-				<string>com.apple.SetupAssistant.managed</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>PayloadIdentifier</key>
-				<string>com.github.globalmacit.9E16AD31-C087-4DA3-9098-D33A289F99A5.alacarte.loginwindow.dbec18a0-125c-4f53-8939-bfb0bf843914.managed</string>
-				<key>PayloadEnabled</key>
-				<true/>
-				<key>PayloadUUID</key>
-				<string>44FEC2A6-7E58-403B-BF8C-F279E63EC270</string>
-				<key>PayloadDisplayName</key>
-				<string>Login Window</string>
 				<key>SkipCloudSetup</key>
 				<true/>
-			</dict>
-			<dict>
-				<key>PayloadType</key>
-				<string>com.apple.SetupAssistant.managed</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>PayloadIdentifier</key>
-				<string>com.github.globalmacit.9E16AD31-C087-4DA3-9098-D33A289F99A5.alacarte.loginwindow.dbec18a0-125c-4f53-8939-bfb0bf843914.managed</string>
-				<key>PayloadEnabled</key>
-				<true/>
-				<key>PayloadUUID</key>
-				<string>1F03447D-277C-4AE7-982E-D52D2C8C954F</string>
-				<key>PayloadDisplayName</key>
-				<string>Login Window</string>
 				<key>SkipPrivacySetup</key>
 				<true/>
 			</dict>
