@@ -1,14 +1,14 @@
 #!/bin/bash
 
 #	configFinderDefaults.sh
-#	version: 0.1
+#	version: 1.0
 #	created: 23 Feb 2018
 #	author: Tobias Morrison
 #
 #	A script to configure sane defaults in a new user account.
 #	Choices are based on years of feedback from clients. Nothing
-#!	is forced here and users can customise their envoiroment
-#!	after this has run.
+#+	is forced here and users can customise their envoiroment
+#+	after this has run.
 #
 #	Designed to run as an Outset 'login-once' script.
 
