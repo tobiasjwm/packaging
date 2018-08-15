@@ -74,15 +74,14 @@ def main():
 	# the first part is useful, so we will pull it out with '[0]'
 	mac_version = platform.mac_ver()[0]
 	
-	if run_today() == False and (mac_version.startswith('10.11') \
-						or mac_version.startswith('10.10') \
-						or mac_version.startswith('10.9')):
+	if run_today() == False and (mac_version.startswith('10.12') \
+						or mac_version.startswith('10.11') \
+						or mac_version.startswith('10.10')):
 		# set the preference with the current unix timestamp
 		set_run_today()
 		# and call Yo with our options
-		run_yo(url='munki://detail-installOSX1012',
+		run_yo(url='munki://detail-Install_macOS_High_Sierra',
 				title='Operating System Update',
-                icon='/Library/Management/Utilities/gmit.png',
 				text='Your Mac is out of date, '\
 				'please upgrade ASAP.')
 if __name__ == '__main__':
