@@ -9,7 +9,7 @@ from Foundation import *
 
 BUNDLE_ID = 'com.github.tobiasjwm.updatenotifier'
 
-def run_yo(title, text, url, icon):
+def run_yo(title, text, url):
 	cmd = [
 		'/Applications/Utilities/yo.app/Contents/MacOS/yo',
 		'--title',
@@ -19,9 +19,7 @@ def run_yo(title, text, url, icon):
 		'--action-btn',
 		'More Info',
 		'--action-path',
-		url,
-		'--icon',
-		icon
+		url
 	]
 	subprocess.call(cmd)
 
