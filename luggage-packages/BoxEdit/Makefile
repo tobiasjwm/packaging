@@ -2,7 +2,7 @@ USE_PKGBUILD=1
 include /usr/local/share/luggage/luggage.make
 
 TITLE=BoxEdit
-PACKAGE_VERSION=4.0.6
+PACKAGE_VERSION=4.2.7
 PACKAGE_NAME=${TITLE}-${PACKAGE_VERSION}
 REVERSE_DOMAIN=com.box.Box-Edit-Installer
 PAYLOAD= \
