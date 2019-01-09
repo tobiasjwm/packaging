@@ -72,13 +72,12 @@ def main():
 	# the first part is useful, so we will pull it out with '[0]'
 	mac_version = platform.mac_ver()[0]
 	
-	if run_today() == False and (mac_version.startswith('10.12') \
-						or mac_version.startswith('10.11') \
-						or mac_version.startswith('10.10')):
+	if run_today() == False and (mac_version.startswith('10.13') \
+						or mac_version.startswith('10.12')):
 		# set the preference with the current unix timestamp
 		set_run_today()
 		# and call Yo with our options
-		run_yo(url='munki://detail-Install_macOS_High_Sierra',
+		run_yo(url='munki://detail-Install_macOS_Mojave',
 				title='Operating System Update',
 				text='Your Mac is out of date, '\
 				'please upgrade ASAP.')
