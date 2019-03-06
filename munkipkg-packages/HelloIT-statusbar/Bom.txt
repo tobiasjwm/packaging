@@ -45,4 +45,4 @@
 ./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar@2x.png	100644	0/0	1959	720395053
 ./Library/Preferences	40755	0/0
 ./Library/Preferences/._com.github.ygini.Hello-IT.plist	100644	0/0	0	0
-./Library/Preferences/com.github.ygini.Hello-IT.plist	100644	0/0	1670	351242604
+./Library/Preferences/com.github.ygini.Hello-IT.plist	100644	0/0	2507	3365319223

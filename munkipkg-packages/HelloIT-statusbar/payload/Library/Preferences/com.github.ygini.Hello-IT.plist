@@ -6,24 +6,19 @@
 	<string>public.submenu</string>
 	<key>settings</key>
 	<dict>
+		<key>imageBaseName</key>
+		<string>statusbar</string>
 		<key>content</key>
 		<array>
 			<dict>
 				<key>functionIdentifier</key>
-				<string>public.title</string>
+				<string>public.open.resource</string>
 				<key>settings</key>
 				<dict>
+					<key>URL</key>
+					<string>http://www.globalmacit.com</string>
 					<key>title</key>
-					<string>Your Mac is not managed.</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>functionIdentifier</key>
-				<string>public.title</string>
-				<key>settings</key>
-				<dict>
-					<key>title</key>
-					<string>Please call GlobalMac IT. 440-941-1622</string>
+					<string>GlobalMac IT</string>
 				</dict>
 			</dict>
 			<dict>
@@ -32,14 +27,66 @@
 			</dict>
 			<dict>
 				<key>functionIdentifier</key>
-				<string>public.script.item</string>
+				<string>public.title</string>
 				<key>settings</key>
 				<dict>
-					<key>repeat</key>
-					<integer>60</integer>
-					<key>script</key>
-					<string>com.github.ygini.hello-it.ip.sh</string>
+					<key>title</key>
+					<string>Do It Yourself</string>
 				</dict>
+			</dict>
+			<dict>
+				<key>functionIdentifier</key>
+				<string>public.open.application</string>
+				<key>settings</key>
+				<dict>
+					<key>app</key>
+					<string>Maintenance Manual Start</string>
+					<key>hideIfNotAvailable</key>
+					<true/>
+					<key>title</key>
+					<string>Fix common Mac issues</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>functionIdentifier</key>
+				<string>public.open.application</string>
+				<key>settings</key>
+				<dict>
+					<key>app</key>
+					<string>Managed Software Center</string>
+					<key>title</key>
+					<string>Managed Software Center</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>functionIdentifier</key>
+				<string>public.open.resource</string>
+				<key>settings</key>
+				<dict>
+					<key>URL</key>
+					<string>munki://updates</string>
+					<key>title</key>
+					<string>Check for updates</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>functionIdentifier</key>
+				<string>public.separator</string>
+			</dict>
+			<dict>
+				<key>functionIdentifier</key>
+				<string>public.open.resource</string>
+				<key>settings</key>
+				<dict>
+					<key>URL</key>
+					<string>https://globalmac-it.itglue.com/1673628/docs/2958443</string>
+					<key>title</key>
+					<string>Get BasicCare Help</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>functionIdentifier</key>
+				<string>public.separator</string>
 			</dict>
 			<dict>
 				<key>functionIdentifier</key>
