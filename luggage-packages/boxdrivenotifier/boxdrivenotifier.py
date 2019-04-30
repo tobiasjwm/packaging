@@ -13,19 +13,19 @@ from Foundation import *
 
 BUNDLE_ID = 'com.github.tobiasjwm.boxdrivenotifier'
 
-def run_yo(title, text, url, icon):
+def run_yo(title, subtitle, text, url):
 	cmd = [
 		'/Applications/Utilities/yo.app/Contents/MacOS/yo',
 		'--title',
 		title,
+		'--subtitle',
+		subtitle,
 		'--info',
 		text,
 		'--action-btn',
 		'More Info',
 		'--action-path',
-		url,
-		'--icon',
-		icon
+		url
 	]
 	subprocess.call(cmd)
 
@@ -120,11 +120,10 @@ def main():
 		set_run_today()
 		set_run_count()
 		# and call Yo with our options
-		run_yo(url='https://globalmac-it.itglue.com/DOC-1673628-1147218',
+		run_yo(url='munki://detail-BoxDrive',
 				title='Box Drive Now Available',
-				icon='/Library/Management/Utilities/gmit.png',
-				text='Box Drive is now available. '\
-				'Click to find out more.')
+				subtitle='"A Better Way to Access Your Box Files'
+				text='Click to find out more.')
 
 	
 	# Check if Box Drive.app is already installed and remove the launch agent
