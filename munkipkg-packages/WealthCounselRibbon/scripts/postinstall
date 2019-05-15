@@ -1,0 +1,107 @@
+#!/bin/sh
+
+# This script is for installing the WealthCounsel MS Word Tool Bar for Mac OS
+# Author: Kason McEwen
+# Date Created: May 18, 2015
+# Modified by Blair Janis: April 11, 2016
+# Modified by Tobias Morrison: May 8, 2019 for use as a postinstall script in a proper installer.
+
+echo "Installing WealthCounsel ToolBar for Word for Mac ..."
+sleep 1
+
+# make sure a user is logged in
+
+
+#make sure that Word is not running
+
+# Store directory where the shell script is running from 
+SCRIPT_DIR="/tmp/WCR_files"
+
+# Since this is designed to be run by Munki which runs as root, we need to identify the 
+# logged in user and use their values.
+
+LOGGED_IN_USER=`python -c 'from SystemConfiguration import SCDynamicStoreCopyConsoleUser; import sys; username = (SCDynamicStoreCopyConsoleUser(None, None, None) or [None])[0]; username = [username,""][username in [u"loginwindow", None, u""]]; sys.stdout.write(username + "\n");'`
+
+
+# Folders corresponding to 2011
+WORD_STARTUP_DIR_2011="/Applications/Microsoft Office 2011/Office/Startup/Word";
+MY_TEMPLATES_DIR_2011="$WORD_STARTUP_DIR_2011/My Templates";
+WC_STYLES_DIR_2011="$MY_TEMPLATES_DIR_2011/WCStyles";
+
+# Folders corresponding to 2016
+WORD_LOCAL_DIR_2016=/Users/$LOGGED_IN_USER/Library/Group\ Containers/UBF8T346G9.Office/User\ Content.localized/Templates.localized;
+WORD_GLOBAL_DIR_2016=/Library/Application\ Support/Microsoft/Office365/User\ Content.localized/Startup.localized/Word;
+WC_STYLES_DIR_2016="$WORD_GLOBAL_DIR_2016/WCStyles";
+
+# Determine Version(s) of MS Office
+MS_VERSION_2011="true";
+if [ ! -d "$WORD_STARTUP_DIR_2011" ]; then
+  MS_VERSION_2011="false";
+fi
+
+MS_VERSION_2016="true";
+if [ ! -d "$WORD_LOCAL_DIR_2016" ]; then
+  MS_VERSION_2016="false";
+fi
+
+#WORD 2011
+if [ "$MS_VERSION_2011" = "true" ]; then
+  echo;
+  echo "Setting up Word 2011 directories ...";
+  sleep 1;
+
+  #Create Directories if they don't exist
+  if [ ! -d "$WC_STYLES_DIR_2011" ]; then
+    mkdir -p "$WC_STYLES_DIR_2011";
+  fi
+
+  echo;
+  echo "Copying Word 2011 toolbar template file ...";
+  sleep 1;
+
+  # Copy the dotm file to the Word Startup Directory
+  cp "$SCRIPT_DIR_2011/WCTools_Mac.dotm" "$WORD_STARTUP_DIR_2011" > /dev/null;
+
+  echo;
+  echo "Copying Word 2011 style templates ...";
+  sleep 2;
+
+  # Copy all the .dot files to the WCStyles Directory
+  cp "$SCRIPT_DIR"/*.dot "$WC_STYLES_DIR_2011" > /dev/null;
+fi
+
+#WORD 2016
+if [ "$MS_VERSION_2016" = "true" ]; then
+  echo;
+  echo "Setting up Word 2016 directories ...";
+  sleep 1;
+
+  #Create Directories if they don't exist
+  if [ ! -d "$WC_STYLES_DIR_2016" ]; then
+    mkdir -p "$WC_STYLES_DIR_2016";
+  fi
+  if [ ! -d "$WORD_GLOBAL_DIR_2016" ]; then
+    mkdir -p "$WORD_GLOBAL_DIR_2016";
+  fi
+
+  echo;
+  echo "Copying Word 2016 toolbar template file ...";
+  sleep 1;
+
+  # Copy the dotm file to the Word Startup Directory
+  cp "$SCRIPT_DIR/WCRibbonMac2016.dotm" "$WORD_GLOBAL_DIR_2016" > /dev/null;
+
+  echo;
+  echo "Copying Word 2016 style templates ...";
+  sleep 2;
+
+  # Copy all the .dot files to the WCStyles Directory
+  cp "$SCRIPT_DIR"/*.dot "$WC_STYLES_DIR_2016" > /dev/null;
+fi
+
+echo;
+echo "Install Complete!";
+echo;
+echo;
+echo "Click ‘Quit’ to exit.";
+
