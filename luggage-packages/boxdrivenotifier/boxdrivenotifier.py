@@ -122,7 +122,7 @@ def main():
 		# and call Yo with our options
 		run_yo(url='munki://detail-BoxDrive',
 				title='Box Drive Now Available',
-				subtitle='"A Better Way to Access Your Box Files'
+				subtitle='A Better Way to Access Your Box Files',
 				text='Click to find out more.')
 
 	
