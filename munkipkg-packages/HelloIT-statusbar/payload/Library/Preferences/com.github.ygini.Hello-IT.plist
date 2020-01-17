@@ -44,7 +44,7 @@
 					<key>hideIfNotAvailable</key>
 					<true/>
 					<key>title</key>
-					<string>Fix common Mac issues</string>
+					<string>Run Maintenance</string>
 				</dict>
 			</dict>
 			<dict>
