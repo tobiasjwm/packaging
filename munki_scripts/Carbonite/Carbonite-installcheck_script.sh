@@ -10,7 +10,7 @@ installerVersion="10.3.5.236"
 
 
 # This will check Carbonite's odd versioning scheme.
-carboniteVersion=`grep  ClientVersion "/Library/Application Support/DCProtect/Service/LocalServiceSettings.config.xml" | tr -d '\t' | sed 's/^<.*>\([^<].*\)<.*>$/\1/' | cut -f2 -d ">" | cut -f1 -d "<"`
+carboniteVersion=$(grep  ClientVersion "/Library/Application Support/DCProtect/Service/LocalServiceSettings.config.xml" | tr -d '\t' | sed 's/^<.*>\([^<].*\)<.*>$/\1/' | cut -f2 -d ">" | cut -f1 -d "<")
 
 # Compare and determine if we have the same version installed.
 if [ -e "/Library/Application Support/DCProtect/Service/LocalServiceSettings.config.xml" ]; then
