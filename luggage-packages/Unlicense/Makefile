@@ -2,9 +2,9 @@ USE_PKGBUILD=1
 include /usr/local/share/luggage/luggage.make
 
 TITLE=Unlicense
-PACKAGE_NAME=${TITLE}
+PACKAGE_NAME=${TITLE}-${PACKAGE_VERSION}
 REVERSE_DOMAIN=com.github.unlicense
-PACKAGE_VERSION=1.1
+PACKAGE_VERSION=3.2
 PAYLOAD=\
 	pack-Unlicense \
 

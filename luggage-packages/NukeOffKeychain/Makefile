@@ -2,9 +2,9 @@ USE_PKGBUILD=1
 include /usr/local/share/luggage/luggage.make
 
 TITLE=NukeOffKeychain
-PACKAGE_NAME=${TITLE}
+PACKAGE_NAME=${TITLE}-${PACKAGE_VERSION}
 REVERSE_DOMAIN=com.github.pbowden-msft.nukeoffkeychain
-PACKAGE_VERSION=1.1
+PACKAGE_VERSION=2.6
 PAYLOAD=\
 	pack-NukeOffKeychain \
 
