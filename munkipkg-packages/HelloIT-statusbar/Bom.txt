@@ -3,46 +3,16 @@
 ./Library/Application Support	40755	0/0
 ./Library/Application Support/com.github.ygini.hello-it	40755	0/0
 ./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon	40755	0/0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-dark.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-dark@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-error-dark.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-error-dark@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-error.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-error@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-ok-dark.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-ok-dark@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-ok.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-ok@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-unavailable-dark.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-unavailable-dark@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-unavailable.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-unavailable@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-warning-dark.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-warning-dark@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-warning.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar-warning@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/._statusbar@2x.png	100644	0/0	0	0
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-dark.png	100644	0/0	1344	1722336606
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-dark@2x.png	100644	0/0	2074	4195352743
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-error-dark.png	100644	0/0	1457	1821660678
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-error-dark@2x.png	100644	0/0	2455	634995984
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-error.png	100644	0/0	1398	3758490053
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-error@2x.png	100644	0/0	2334	2001709416
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-ok-dark.png	100644	0/0	1344	1722336606
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-ok-dark@2x.png	100644	0/0	2074	4195352743
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-ok.png	100644	0/0	1303	888573682
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-ok@2x.png	100644	0/0	1959	720395053
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-unavailable-dark.png	100644	0/0	1457	1821660678
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-unavailable-dark@2x.png	100644	0/0	2455	634995984
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-unavailable.png	100644	0/0	1398	3758490053
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-unavailable@2x.png	100644	0/0	2334	2001709416
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-warning-dark.png	100644	0/0	1545	1605840089
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-warning-dark@2x.png	100644	0/0	2622	416119369
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-warning.png	100644	0/0	1503	428733946
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-warning@2x.png	100644	0/0	2470	253137884
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar.png	100644	0/0	1303	888573682
-./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar@2x.png	100644	0/0	1959	720395053
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-dark.tiff	100644	0/0	10224	1385386083
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-error-dark.tiff	100644	0/0	11038	3169850338
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-error.tiff	100644	0/0	10752	2045064162
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-ok-dark.tiff	100644	0/0	10236	416689062
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-ok.tiff	100644	0/0	10016	2316276442
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-unavailable-dark.tiff	100644	0/0	11062	4040685694
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-unavailable.tiff	100644	0/0	10776	1775073588
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-warning-dark.tiff	100644	0/0	10924	1432376147
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar-warning.tiff	100644	0/0	10658	3925817501
+./Library/Application Support/com.github.ygini.hello-it/CustomStatusBarIcon/statusbar.tiff	100644	0/0	10004	2954891823
 ./Library/Preferences	40755	0/0
 ./Library/Preferences/._com.github.ygini.Hello-IT.plist	100644	0/0	0	0
-./Library/Preferences/com.github.ygini.Hello-IT.plist	100644	0/0	2507	3365319223
+./Library/Preferences/com.github.ygini.Hello-IT.plist	100644	0/0	2853	481244281
