@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>distribution_style</key>
-	<true/>
+	<false/>
 	<key>identifier</key>
 	<string>com.globalmacit.EraseInstallMgmtPkgs</string>
 	<key>install_location</key>
