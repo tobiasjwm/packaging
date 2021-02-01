@@ -4,7 +4,7 @@ include /usr/local/share/luggage/luggage.make
 TITLE=Unlicense
 PACKAGE_NAME=${TITLE}-${PACKAGE_VERSION}
 REVERSE_DOMAIN=com.github.unlicense
-PACKAGE_VERSION=3.2
+PACKAGE_VERSION=3.4
 PAYLOAD=\
 	pack-Unlicense \
 
