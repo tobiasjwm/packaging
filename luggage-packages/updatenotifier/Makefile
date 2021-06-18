@@ -1,8 +1,8 @@
-USE_PKGBUILD=1
 include /usr/local/share/luggage/luggage.make
+PB_EXTRA_ARGS+= --sign "Developer ID Installer: Tobias Morrison"
 
 TITLE=updatenotifier
-PACKAGE_VERSION=4.0
+PACKAGE_VERSION=5.0
 PACKAGE_NAME=${TITLE}-${PACKAGE_VERSION}
 REVERSE_DOMAIN=com.github.tobiasjwm
 PAYLOAD=\
