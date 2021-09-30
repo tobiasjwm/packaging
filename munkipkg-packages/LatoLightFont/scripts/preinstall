@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# LatoLight preinstall script to remove duplicates and avoid conflicts.
+
+find "$3"/Users/*/Library/Fonts -iname "Lato-Light*.?tf" -delete
